@@ -1,0 +1,1339 @@
+﻿courseID,shortTitle,deptCode,deptName,minCredit,academicLevel,instructMethod,EC: Clear Concise Writing,EC: Credibility/Persuasiveness,EC Public Presentation,EC: Thought Organization,TM: Punctuality,TM: Effective Task Completion,TM: Deadline Setting,L: Effective Communication,L:  Critical Thinking,L: Decision Making,L: Empathy,L: Strategic Thinking,TC: Effective Communication,TC: Delegation/Support,TC: Commitment,TC: Respect/Accountability,CPS: Clarification,CPS: Ideation,CPS: Solution Development,CPS: Implementation,R: Quantitative Analysis,R: Data Visualization,R: Resource Use,R: Effective Communication,AF: Effective Listening,AF: Emotional Intelligence,AF: Big Picture,AF: See Multiple Perspectives
+ALHT-111,IntRo Hlth PRofessions,ALHL,Allied Health,1,UG,LEC,,,,,,,,,,,,,,,,,,,,I,,,,,I,,,I
+ALHT-225,IntRo Medical Lab Sci,ALHL,Allied Health,2,UG,LEC,,,,I,I,I,I,,I,,,,I,,,I,I,,,,,,,,I,,,I
+ALHT-265,Topics in Allied Health,ALHL,Allied Health,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALHT-284,IntRo Speech-Lang Path,ALHL,Allied Health,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALHT-LD,Allied Health - LoweR Division,ALHL,Allied Health,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-101,Anat & Phys I,BIOL,Biology,4,UG,LEC,,I,,I,I,I,I,I,I,,,,I,I,,I,I,,,I,,,,,,,,
+BIOL-101L,Anat & Phys I Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-102,Anat & Phys I,BIOL,Biology,4,UG,LEC,,,,,I,I,I,,,,,,I,,,I,I,,,,,,,,I,I,,
+BIOL-102L,Anat & Phys I Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-103,PRin of Biology,BIOL,Biology,3,UG,LEC,,,I,I,I,I,I,,,,,,,,,,,,I,,I,I,,,,,,
+BIOL-151,Gen Biology I,BIOL,Biology,4,UG,LEC,I,,,I,I,I,I,,,,,,,,,,,,,,I,I,,I,,,,
+BIOL-151L,Gen Biology I Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-152,Gen Biology I,BIOL,Biology,4,UG,LEC,I,,I,I,I,I,I,,,,,,,I,I,I,I,,I,,I,I,I,I,I,,I,I
+BIOL-152L,Gen Biology I Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,I,,,,,,,,,,,,,,,
+BIOL-225,Basic MicRobiology,BIOL,Biology,4,UG,LEC,,,,I,I,I,,,,,,,,I,,I,I,,,I,,,,,I,,,
+BIOL-225L,Basic MicRobiology Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,I,,,,,,,,,,,,,,,
+BIOL-252,TRopical Biology,BIOL,Biology,3,UG,LEC,,,,I,I,I,,R,I,R,,R,R,R,R,M,R,,,R,,,,,R,R,R,R
+BIOL-255,IntRo to DentistRy,BIOL,Biology,1,UG,LEC,,,,,I,I,,,I,,,,I,,I,,,,,I,,,,,,,,
+BIOL-265,Topics in Biology,BIOL,Biology,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-282,Biological Analysis,BIOL,Biology,3,UG,LEC,I,,I,I,I,I,I,,I,,,,,,,,,I,I,,R,R,I,I,,,,
+BIOL-297,ReseaRch In Biology,BIOL,Biology,1,UG,RSCH,R,,I,R,R,R,R,,R,R,,R,,R,R,,,,R,R,R,R,R,R,,,R,
+BIOL-305,PRoposal WRiting,BIOL,Biology,1,UG,LEC,R,R,,R,R,R,R,R,R,R,,R,R,,,,,,,,,,R,R,,,R,
+BIOL-311,Genetics,BIOL,Biology,4,UG,LEC,,,,R,R,R,,R,R,R,,,R,R,,R,,I,,R,I,,I,,,,,
+BIOL-311L,Genetics Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-313,Developmental Biology,BIOL,Biology,3,UG,LEC,R,R,R,R,R,R,,R,R,R,,,R,,,,,,I,R,,,,,R,,,
+BIOL-313L,Dev Biology Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-314,ORnithology,BIOL,Biology,3,UG,LEC,,,,,R,R,R,,,,,R,R,,,,R,,,R,,,R,,R,,R,R
+BIOL-314L,ORnithology Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-315,Human PaRasitology,BIOL,Biology,3,UG,LEC,R,I,,R,R,R,,,,,,,,,,,,,,,,,,,,,,
+BIOL-315L,Human PaRasitology Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-317,Ecology,BIOL,Biology,3,UG,LEC,R,R,,R,R,R,R,,,,,,R,R,R,R,R,R,R,,R,R,,R,R,R,R,
+BIOL-317L,Ecology Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-320,Entomology,BIOL,Biology,3,UG,LEC,,,,R,R,R,R,I,,I,,,,R,R,,,,R,,R,R,R,,,,R,R
+BIOL-321,Field Ecology,BIOL,Biology,3,UG,LEC,R,R,,R,R,R,R,,,,,,R,R,R,R,R,R,R,,R,R,,R,R,R,R,
+BIOL-329,Gen MicRobiology,BIOL,Biology,3,UG,LEC,R,,,R,R,R,R,I,I,R,R,R,R,R,R,R,,,,,,,,,,,R,R
+BIOL-329L,Gen MicRobiology Lab,BIOL,Biology,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-333,Medical Toxinology,BIOL,Biology,3,UG,LEC,R,,,R,R,R,R,,,,I,,R,R,R,R,,,,,R,R,R,R,,,,R
+BIOL-340,Immunology,BIOL,Biology,3,UG,LEC,R,,,R,R,R,R,R,M,R,,,R,R,,M,R,R,,R,R,R,,R,,,,
+BIOL-365,Topics in Biology,BIOL,Biology,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-365L,Topics,BIOL,Biology,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-366,RosaRio Beach Topics Biology,BIOL,Biology,3.3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-375,Plants in Medicine,BIOL,Biology,3,UG,LEC,,,R,,R,R,R,,,,,,R,,,R,,,,,,,R,,,,R,
+BIOL-375L,Plants in Medicine Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-387,Animal BehavioR,BIOL,Biology,3,UG,LEC,,R,R,R,,R,R,,M,,,,R,R,R,,,,,,,,,R,R,R,R,
+BIOL-412,Cell & MoleculaR Biol,BIOL,Biology,4,UG,LEC,R,,,R,R,R,R,R,M,R,,,R,R,,M,R,R,,,,,,R,,,,
+BIOL-412L,Cell & Molec Biol Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,R,R,M,M,M,M,M,,,,,,,,M,R,R,R
+BIOL-415,CompaRative Anatomy,BIOL,Biology,3,UG,LEC,,,,,I,I,I,,R,,,,R,R,R,R,R,,,,R,R,,,,,,
+BIOL-416,Human Anatomy,BIOL,Biology,3,UG,LEC,,,,,R,M,,,,,R,R,,R,R,R,R,,,R,M,M,R,R,,,R,
+BIOL-416L,Human Anatomy Lab,BIOL,Biology,0,UG,LAB,,,,,,M,,R,R,,,,,,,,,,,,,,,,,,,
+BIOL-417,Animal Histology,BIOL,Biology,3,UG,LEC,I,,M,I,R,R,R,,,,,,R,,,,,M,R,,,,,,R,,,
+BIOL-417L,Animal Histology Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-418,Animal Physiology,BIOL,Biology,3,UG,LEC,R,R,,R,R,R,R,R,M,,,R,M,M,M,M,M,,R,R,,R,R,R,,,,R
+BIOL-418L,Animal Phys Lab,BIOL,Biology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-421,Issues in Sci & Society,BIOL,Biology,3,UG,LEC,M,M,,M,R,R,R,,M,,,,,,,,,,R,R,,,M,M,R,,R,M
+BIOL-424,Issues Nat Sci & Rlgn,BIOL,Biology,3,UG,LEC,M,M,M,M,,R,,,,,M,M,,,,,M,,,R,,,,,M,M,M,M
+BIOL-458,Ecotoxicology,BIOL,Biology,3,UG,LEC,R,R,M,M,M,M,M,,R,R,,R,M,M,M,M,M,M,M,M,M,M,M,M,,,M,M
+BIOL-458L,Ecotoxicology Lab,BIOL,Biology,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BIOL-476,ReseaRch in Biology,BIOL,Biology,1,UG,RSCH,M,M,M,M,R,M,R,,R,R,,M,,,,,,R,R,R,M,M,M,M,M,R,M,R
+BIOL-496,SenioR Thesis,BIOL,Biology,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MDTC-000,Med Tech,BIOL,Biology,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MDTC-050,Med Tech,BIOL,Biology,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACCT-221,PRin Accounting I,BUS,Business/management,3,UG,LEC,R,,,,R,M,R,R,R,R,,I,I,,,,R,R,R,R,I,,,,I,,I,I
+ACCT-222,PRin Accounting I,BUS,Business/management,3,UG,LEC,R,,,,M,M,M,R,R,R,,R,R,R,R,R,R,R,R,R,I,I,,I,I,,I,I
+ACCT-261,Tax PRactice (VITA),BUS,Business/management,3,UG,LEC,,R,R,,M,M,M,,M,M,M,,,,,,M,M,M,M,M,R,R,,M,M,R,M
+ACCT-265,Topics in Accounting,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACCT-311,InteRmediate Acct I,BUS,Business/management,4,UG,LEC,R,R,R,R,M,M,M,R,R,R,,R,,,,,R,R,R,R,R,R,R,R,R,,R,R
+ACCT-311L,InteRm Acct I Lab,BUS,Business/management,0,UG,LAB,R,R,R,R,M,M,M,R,R,R,,R,,,,,R,R,R,R,R,R,R,R,R,,R,R
+ACCT-312,InteRm Accounting I,BUS,Business/management,4,UG,LEC,R,R,R,R,M,M,M,R,R,R,,R,,,,,R,R,R,R,R,R,R,R,R,,R,R
+ACCT-312L,InteRm Acct I Lab,BUS,Business/management,0,UG,LAB,R,R,R,R,M,M,M,R,R,R,,R,,,,,R,R,R,R,R,R,R,R,R,,R,R
+ACCT-316,Gov Not-foR-PRofit Acct,BUS,Business/management,3,UG,LEC,,,,,M,M,R,R,R,R,,R,,,,,R,R,R,R,R,,,,R,,R,R
+ACCT-321,ManageRial Accounting,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACCT-322,Cost Accounting,BUS,Business/management,3,UG,LEC,R,R,,R,M,M,R,R,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R
+ACCT-432,Acct Ethics & FRaud Exam,BUS,Business/management,3,UG,LEC,R,M,R,R,M,M,R,M,M,R,R,R,R,R,R,R,M,M,M,R,R,R,R,R,R,I,R,R
+ACCT-443,Accounting Systems,BUS,Business/management,3,UG,LEC,R,,,,M,M,M,,R,R,,R,,,,,M,M,M,R,R,R,R,R,R,,R,R
+ACCT-450,Adv Accounting,BUS,Business/management,3,UG,LEC,,,,,M,M,M,,R,R,,R,,,,,M,M,M,R,R,R,M,R,R,,R,R
+ACCT-452,Auditing,BUS,Business/management,3,UG,LEC,R,M,,R,M,M,R,M,M,R,R,R,R,R,R,R,M,M,M,R,R,R,R,R,R,,R,R
+ACCT-456,FedeRal Taxation,BUS,Business/management,3,UG,LEC,,R,,,R,R,R,,M,M,,,,,,,M,M,M,M,M,,R,,R,,R,R
+ACCT-457,Adv FedeRal Taxation,BUS,Business/management,3,UG,LEC,,,,,I,M,M,,M,R,,M,,,,,M,R,M,M,R,R,R,R,,,R,R
+ACCT-461,Tax PRactice (VITA),BUS,Business/management,3,UG,LEC,,R,R,,M,M,M,,M,M,M,,,,,,M,M,M,M,M,R,R,,M,M,R,M
+ACCT-465,Topics in Accounting,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACCT-491,Accounting PRacticum,BUS,Business/management,0,UG,PRAC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACCT-492,Accounting InteRnship,BUS,Business/management,0,UG,INT,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACCT-494,Accounting Capstone,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACCT-497,Accounting ReseaRch,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BMKT-265,Topics in MaRketing,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BMKT-292,Sales InteRnship,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BMKT-326,PRin of MaRketing,BUS,Business/management,3,UG,LEC,,R,M,I,R,R,R,I,R,I,I,I,R,,R,R,I,I,I,I,,,I,I,I,,R,I
+BMKT-327,ConsumeR BehavioR,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,,I,I,R,,R,R,R,I,R,I,,,,,I,I,R,R
+BMKT-328,Sales Management,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,,R,,R,R,R,R,R,R,,,R,R,R,R,R,R
+BMKT-345,Digital MaRketing,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+BMKT-375,InteRnational Mktg,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+BMKT-410,SeRvice MaRketing,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,R,R,R,R,R,R
+BMKT-423,PRin IntegR MRkt Comm,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+BMKT-424,MaRketing StRategy,BUS,Business/management,3,UG,LEC,M,R,R,M,M,R,M,R,M,R,I,M,R,I,M,M,R,R,M,R,,I,I,R,R,R,M,R
+BMKT-465,Topics in MaRketing,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BMKT-491,MaRketing PRacticum,BUS,Business/management,0,UG,PRAC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BMKT-493,MaRketing InteRnship,BUS,Business/management,0,UG,LEC,R,R,,R,,,,,,,,,,,,,,,,,,,,,,,,
+BMKT-497,MaRketing ReseaRch,BUS,Business/management,3,UG,RSCH,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-103,TRial Advocacy Basics,BUS,Business/management,1,UG,LEC,,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+BUAD-126,IntRo to Business,BUS,Business/management,3,UG,LEC,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-128,PeRsonal Finance,BUS,Business/management,3,UG,LEC,,,R,R,M,R,,,R,,,,R,R,,,,,R,,R,,R,,R,,,R
+BUAD-200,Busin Assoc MjR Qual,BUS,Business/management,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-201,Bus MjR Qualification,BUS,Business/management,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-217,Business CptR Appl,BUS,Business/management,3,UG,LEC,,,,,R,R,,,,,,,,,,,,,,,,,,,,,,
+BUAD-221,Bus Statistics,BUS,Business/management,3,UG,LEC,,,,,R,R,,,,,,,,,,,,,,,,,,,,,,
+BUAD-233,IntRo NonpRofit SectoR,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-265,Topics in Business,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-288,SeminaR in Bus Adm,BUS,Business/management,1,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,,,R,R,R,R
+BUAD-294,Bus Adm Int'l Study TouR,BUS,Business/management,3,UG,LEC,M,I,,M,R,R,M,,R,,I,R,I,,R,M,,,,,,,I,I,R,R,R,M
+BUAD-296,Busin Admin Study TouR,BUS,Business/management,1,UG,TOUR,R,R,,,R,R,R,,R,,R,,,,R,R,,,R,R,,,,,R,R,R,R
+BUAD-305,IntRo Bus Analytics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-312,PRofessional Comm/LdRshp,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-339,Business Law,BUS,Business/management,3,UG,LEC,I,M,R,R,R,R,R,,M,M,M,,,,,,M,M,M,M,,,R,,M,M,M,M
+BUAD-358,"Ethical, Soc & Legal Env Bu",BUS,Business/management,3,UG,LEC,M,R,R,M,M,M,M,,M,M,M,,,M,M,M,M,M,M,M,M,M,M,,M,M,M,M
+BUAD-412,PRep to Meet FiRms,BUS,Business/management,1,UG,LEC,R,,R,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-465,Topics in Business,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-485,Missional Business,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-488,Sem Bus Admin,BUS,Business/management,1,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,,,R,R,R,R
+BUAD-490,InteRnational SemesteR,BUS,Business/management,0,UG,LEC,,,,,,R,R,,,R,,,,,,,,,,,,,,,,,,
+BUAD-491,Business PRacticum,BUS,Business/management,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-492,Business InteRnship,BUS,Business/management,0,UG,INT,R,R,,R,,,,,,,,,,,,,,,,,,,,,,,,
+BUAD-493,Int'l Busin Comm,BUS,Business/management,3,UG,LEC,R,R,M,R,R,R,R,,R,,,,,,,,,,,,,,,,R,R,R,R
+BUAD-494,Bus Adm Int'l Study TouR,BUS,Business/management,1,UG,LEC,M,I,,M,R,R,M,,R,,I,R,I,,R,M,,,,,,,I,I,R,R,R,M
+BUAD-496,Bus Admin Study TouR,BUS,Business/management,1,UG,TOUR,R,R,,,R,R,R,,R,,R,,,,R,R,,,R,R,,,,,R,R,R,R
+BUAD-497,Business ReseaRch,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-213,SuRvey of Economics,BUS,Business/management,3,UG,LEC,,I,,R,R,R,R,,I,I,I,I,,,,I,I,I,R,I,I,R,,,,I,R,M
+ECON-224,PRin MacRoeconomics,BUS,Business/management,3,UG,LEC,R,I,,R,R,R,R,,I,I,I,I,,,,I,I,I,R,I,I,R,R,R,,I,R,M
+ECON-225,PRin MicRoeconomics,BUS,Business/management,3,UG,LEC,R,I,,R,R,R,R,,I,I,I,I,,,,I,I,I,R,I,I,R,R,R,,I,R,M
+ECON-265,Topics in Economics,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-315,PluRalist Economics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-320,InteRnational TRade Econ,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-325,Development Economics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-330,EconometRics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-354,InteRm MacRoeconomics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-355,InteRm MicRoeconomics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-360,Political Economy,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-420,ManageRial Economics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-425,BehavioRal Economics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-430,HealthcaRe Economics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-435,MonetaRy Economics,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-452,Financial MaRkets,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ECON-465,Topics in Economics,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FNCE-265,Topics in Finance,BUS,Business/management,1,UG,LEC,R,R,M,R,R,R,R,,R,R,,,,R,R,R,R,R,R,,R,R,R,,R,R,R,R
+FNCE-315,PRinciples of Finance,BUS,Business/management,3,UG,LEC,,R,,,R,R,R,,M,M,R,,,,,,M,R,M,M,M,,R,,I,,R,R
+FNCE-425,InteRnational Finance,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,M,R,R,M,R,R,R,R,R,R,M,R,M,R,R,R,R,R,M,R
+FNCE-448,CoRpoRate Finance,BUS,Business/management,3,UG,LEC,,,,,R,R,R,,R,R,,,,,,,R,,R,,R,,R,,R,,R,R
+FNCE-450,WoRking Capital Mgmt,BUS,Business/management,3,UG,LEC,,,,,R,R,R,,R,R,,,,,,,R,,R,,R,,,,R,,R,R
+FNCE-452,Financial MaRkets,BUS,Business/management,3,UG,LEC,R,,,R,R,R,R,,R,R,,,,,,,,,R,,,,,,R,,R,R
+FNCE-455,Fund of Investment,BUS,Business/management,3,UG,LEC,R,R,R,R,M,M,M,R,M,M,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R
+FNCE-461,PoRtfolio Management,BUS,Business/management,3,UG,LEC,M,M,M,M,R,M,M,M,M,M,R,M,R,R,R,R,R,R,R,R,M,R,R,R,R,R,M,R
+FNCE-465,Topics in Finance,BUS,Business/management,1,UG,LEC,R,R,M,R,R,R,R,,R,R,R,,,R,R,R,R,M,M,,R,R,R,,R,R,R,R
+FNCE-491,Finance PRacticum,BUS,Business/management,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FNCE-492,Finance InteRnship,BUS,Business/management,0,UG,LEC,R,R,,R,,,,,,,,,,,,,,,,,,,,,,,,
+FNCE-497,Finance ReseaRch,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-265,Topics Health SeRvices,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-295,DiRected Study,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-390,Int:Home/Comm ORganiz,BUS,Business/management,1,UG,LEC,R,R,,R,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-431,Admin HSSL Facility I,BUS,Business/management,3,UG,LEC,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-432,Admin HSSL Facility I,BUS,Business/management,3,UG,LEC,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-434,Finan Mgmt HSSL Facility,BUS,Business/management,3,UG,LEC,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-435,HR Mgmt of HSSL Facility,BUS,Business/management,3,UG,LEC,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-437,MaRketing HSSL Facility,BUS,Business/management,3,UG,LEC,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-465,Topics in HSSL AdministRation,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-490,InteRn:Assist Liv/Res CaRe,BUS,Business/management,1,UG,LEC,R,R,,R,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-492,InteRn:Skill NRsg Admin,BUS,Business/management,2,UG,LEC,R,R,,R,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-495,DiRected Study,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HSSL-497,HSSL Admin ReseaRch,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-265,Topics in Business,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-288,PRoject Management,BUS,Business/management,0,UG,LEC,R,I,R,R,R,M,M,R,R,I,I,I,R,R,M,R,I,I,I,I,,,R,R,R,R,I,I
+MGNT-334,PRin of Management,BUS,Business/management,3,UG,LEC,M,I,R,R,R,R,R,R,R,I,R,R,R,R,M,M,I,I,I,I,,I,I,I,I,I,I,R
+MGNT-344,Human ResouRce Mgmt,BUS,Business/management,3,UG,LEC,R,R,R,M,R,R,R,M,R,R,R,M,R,R,R,M,R,R,R,R,,R,R,R,R,R,R,R
+MGNT-350,Bus OpeR & Supply Chain Mgt,BUS,Business/management,3,UG,LEC,,R,,,R,R,R,R,R,M,,I,R,,,,M,R,M,M,M,M,R,R,I,,R,R
+MGNT-354,PRin of Risk Management,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-364,Int'l Busin & Econ,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,,,R,M,R,,,M,R,R,M,M,M,R,R,,M,,R,R,R,R
+MGNT-368,MulticultuRal Mgmt,BUS,Business/management,3,UG,LEC,R,R,,R,R,R,,,R,R,R,,,M,R,R,M,R,R,,,R,R,,R,R,R,R
+MGNT-371,PRin of EntRepReneuRship,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,M,R,I,R,R,R,R,M,M,M,M,M,M,M,R,M,R,M,M
+MGNT-372,Small Business Mgmt,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,M,I,M,R,M,R,M,R,R,R,I,M,R,R,R,R,R,M,M
+MGNT-410,ORg TheoRy & Design,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-420,ORganizational BehavioR,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-450,LdRshp in ORganizations,BUS,Business/management,3,UG,LEC,M,R,M,R,R,M,R,M,R,R,R,M,R,I,I,R,I,R,R,R,,I,R,R,R,R,M,M
+MGNT-452,Missional EntRepReneuRship,BUS,Business/management,3,UG,LEC,M,M,M,M,R,M,M,,M,M,,,,,,,M,M,M,,R,R,M,,R,,R,R
+MGNT-460,Comp & Benefits,BUS,Business/management,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,I,R,R,R,R,,R,R
+MGNT-464,Business StRategies,BUS,Business/management,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+MGNT-465,Topics in Business,BUS,Business/management,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-470,StRategic Mgmt NonpRof ORg,BUS,Business/management,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-488,PRoject Management,BUS,Business/management,0,UG,LEC,R,I,R,R,R,M,M,R,R,I,I,I,R,R,M,R,I,I,I,I,,,R,R,R,R,I,I
+MGNT-491,Management PRacticum,BUS,Business/management,0,UG,PRAC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-492,Management InteRnship,BUS,Business/management,0,UG,INT,R,R,,R,,,,,,,,,,,,,,,,,,,,,,,,
+MGNT-497,Management ReseaRch,BUS,Business/management,3,UG,RSCH,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-114,Oxy-Acetylene Welding,TECH,Technology,1,UG,LEC,,,,,I,R,I,,,,,,,,,,I,,I,I,,,,,I,,I,
+TECH-114L,Oxy-Acetylene Lab,TECH,Technology,0,UG,LAB,,,,,I,R,I,,,,,,,,,,I,,I,I,,,,,I,,I,
+TECH-115,ARc Welding,TECH,Technology,2,UG,LEC,,,,,I,R,I,,,,,,,,,,I,,I,I,,,,,I,,I,
+TECH-121,ConstRuction Safety,TECH,Technology,2,UG,LEC,,,,R,R,R,R,I,I,I,,I,I,I,I,I,I,I,I,I,,,,,R,,I,I
+TECH-122,WoodwoRking foR ARtists,TECH,Technology,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-128,Beginning Blacksmithing,TECH,Technology,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-133,Plumbing-Residential,TECH,Technology,1,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,,,,,R,,I,I
+TECH-135,DRywall/Paint/Tile/TRim,TECH,Technology,1,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,,,,,R,,I,I
+TECH-137,HVAC and Insulation,TECH,Technology,3,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,,,,,R,,I,I
+TECH-138,PRac Tech Dev CountRies,TECH,Technology,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-140,StRuctuRes Analysis I,TECH,Technology,2,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,I,R,R,R,R,R,R,I,I,I,I,R,,R,R
+TECH-147,Method & MateRial ConstRuction,TECH,Technology,2,UG,LEC,I,I,I,R,R,R,R,R,R,R,I,R,R,R,R,R,R,R,R,R,I,I,I,I,R,,R,R
+TECH-149,IntRo to Mech DRaw & CADD,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-151,ARchitect DRaft & CADD,TECH,Technology,3,UG,LEC,,,,R,R,R,R,I,I,I,,I,,,,,I,I,I,I,,,,,R,,R,R
+TECH-152,StRuctuRes Analysis I,TECH,Technology,2,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,I,R,R,R,R,R,R,I,I,I,I,R,,R,R
+TECH-154,WoodwoRking,TECH,Technology,3,UG,LEC,,,,R,R,R,R,I,I,I,,I,,,,,I,I,I,I,,,,,R,,I,I
+TECH-157,"Elec, Mech & Finishes I",TECH,Technology,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-164,Auto Maintenance,TECH,Technology,2,UG,LEC,,R,,,R,I,R,,,,,,I,I,,R,R,R,R,R,,,,,R,,,I
+TECH-166,Auto ElectRical Systems,TECH,Technology,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-167,"Suspension, SteeRing & Alignmt",TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-168,Manual DRive TRain & Axles,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-169,Automotive BRakes,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-170,CaRpentRy-Residential,TECH,Technology,3,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,,,,,R,,I,I
+TECH-175,Engine Rebuilding & Machining,TECH,Technology,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-178,Heating & AiR Conditiong,TECH,Technology,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-179,PRin Conc & MasonRy ConstR,TECH,Technology,3,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,,,,,R,,I,I
+TECH-180,Real-Estate Development,TECH,Technology,2,UG,LEC,,,,R,R,R,R,R,R,R,,R,I,I,I,I,R,R,R,R,I,I,I,I,R,,R,R
+TECH-183,Basic ElectRonics,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-230,Automatic TRansmission,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-248,CADD Mechanical,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-253,Resid ConstRuction Codes,TECH,Technology,3,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,I,I,I,I,R,,R,R
+TECH-254,FuRnituRe Deisgn & ConstRuct,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-264,Automotive RepaiR,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-265,Topics in Technology,TECH,Technology,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-270,SeRvice ConstRuction,TECH,Technology,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-272,3-D Modeling SoftwaRe,TECH,Technology,2,UG,LEC,,,,R,R,R,,,,,,,,,,,I,I,I,I,,,,,R,R,R,R
+TECH-274,Estimate & Auto Bus PRac,TECH,Technology,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-276,Engine PeRfoRmance & CptRs,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-277,Eng Fuel & Emission ContRol,TECH,Technology,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-291,PRacticum,TECH,Technology,1,UG,PRAC,,M,,M,M,M,M,M,M,M,,M,M,,R,R,R,,R,R,R,,R,,,,R,R
+TECH-299,Adv Engine PeRfoRmance,TECH,Technology,3,UG,LEC,M,,M,M,M,M,M,M,M,,M,M,,,M,M,,M,M,M,,M,,,,M,M,
+TECH-328,Adv ARchitect DRafting,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-332,ElectRical-Residential,TECH,Technology,3,UG,LEC,,,,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,,,,,R,,I,I
+TECH-348,3D CAD DRafting,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-352,ConstR Estimate-CommeRcial,TECH,Technology,3,UG,LEC,I,I,I,R,R,R,R,R,R,R,I,R,R,R,R,R,R,R,R,R,,,,,R,,R,R
+TECH-354,FuRnituRe Design & ConstRuct,TECH,Technology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-355,Const Estimating-Res,TECH,Technology,3,UG,LEC,I,I,I,R,R,R,R,R,R,R,I,R,R,R,R,R,R,R,R,R,,,,,R,,R,R
+TECH-362,ConstRuction ContRact Adm,TECH,Technology,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,I,I,I,I,R,R,R,R
+TECH-372,3-D Modeling SoftwaRe,TECH,Technology,2,UG,LEC,,,,R,R,R,,,,,,,,,,,I,I,I,I,,,,,R,R,R,R
+TECH-374,Diesel Engines,TECH,Technology,3,UG,LEC,,I,,I,I,I,I,I,I,I,,I,I,,,I,I,,I,I,I,,I,,,,I,I
+TECH-375,Engine Rebuilding & Machining,TECH,Technology,4,UG,LEC,,I,,I,I,I,I,I,I,I,,I,I,,,I,I,,I,I,I,,I,,,,I,I
+TECH-376,Automation and Robotics,TECH,Technology,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-377,Engine PeRfoRmance & CptRs,TECH,Technology,3,UG,LEC,,I,,I,I,I,I,I,I,I,,I,I,,,I,I,,I,I,I,,I,,,,I,I
+TECH-465,Topics in Technology,TECH,Technology,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECH-472,Adv 3-D Model SoftwaRe,TECH,Technology,3,UG,LEC,,,,R,R,R,,,,,,,,,,,I,I,I,I,,,,,R,R,R,R
+TECH-480,ConstR Mgmt SR PRoject,TECH,Technology,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+TECH-491,Advanced PRacticum,TECH,Technology,2,UG,LEC,,R,,M,M,M,M,R,R,R,,R,R,,,R,R,,R,R,R,,R,,R,,R,R
+TECH-492,InteRnship,TECH,Technology,3,UG,INT,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHEM-107,Chem EveRyday Life,CHEM,Chemistry,3,UG,LEC,,,,I,,I,I,,I,,,,,,,,I,I,I,,I,,,,I,,,
+CHEM-119,IntRoductoRy ChemistRy,CHEM,Chemistry,4,UG,LEC,,,,I,,I,I,,I,,,,,,,,I,I,I,,I,,,,I,,,
+CHEM-120,SuRvey of Health Chem,CHEM,Chemistry,3,UG,LEC,,,,,,I,I,,I,,,,,,,,I,I,I,,I,,,,I,,,
+CHEM-121,SuRvey Hlth Chem Lab,CHEM,Chemistry,1,UG,LEC,I,,,I,I,I,I,I,I,I,,,I,I,,I,I,,I,I,I,,,I,I,,,
+CHEM-151,Gen ChemistRy I,CHEM,Chemistry,4,UG,LEC,,,,I,I,I,,I,I,,,,I,,,,,I,I,,I,I,,I,,,,
+CHEM-151L,Gen Chem I Lab,CHEM,Chemistry,0,UG,LAB,,R,,,R,M,R,R,R,I,,,R,,R,R,R,I,I,I,R,R,,R,,,,
+CHEM-152,Gen ChemistRy I,CHEM,Chemistry,4,UG,LEC,,,,I,I,I,,I,I,,,,I,,,,,I,I,,I,I,,I,,,,
+CHEM-152L,Gen Chem I Lab,CHEM,Chemistry,0,UG,LAB,,R,,,R,M,R,R,R,I,,,R,,R,R,R,I,I,I,R,R,,R,,,,
+CHEM-205,TutoRing ChemistRy,CHEM,Chemistry,1,UG,LEC,I,,I,,,,,I,,,I,,I,,I,I,,,,,,,,I,I,I,,I
+CHEM-311,ORganic Chem I,CHEM,Chemistry,4,UG,LEC,,,,I,I,R,,I,,,,,I,,,,,R,I,,,,,I,,,,
+CHEM-311L,ORganic Chem I Lab,CHEM,Chemistry,0,UG,LAB,I,,,I,,M,R,I,,I,,,I,,,R,R,R,I,I,I,,I,I,,,,
+CHEM-312,ORganic Chem I,CHEM,Chemistry,4,UG,LEC,,,,I,I,R,,I,,,,,I,,,,,R,I,,,,,I,,,,
+CHEM-312L,ORganic Chem I Lab,CHEM,Chemistry,0,UG,LAB,I,,,I,,M,R,I,,I,,,I,,,R,R,R,I,I,I,,I,I,,,,
+CHEM-315,Quantitative Analysis,CHEM,Chemistry,4,UG,LEC,,,,,,,,,R,,,,,,,,R,R,R,R,R,R,,,,,R,R
+CHEM-315L,Quantitative Analysis Lab,CHEM,Chemistry,0,UG,LAB,R,R,,R,R,R,R,R,R,R,,,R,,,,R,R,R,R,R,,,R,,,,
+CHEM-321,InstRumental Analysis,CHEM,Chemistry,4,UG,LEC,,,,,,,,,R,,,,,,,,R,R,R,R,R,R,,,,,R,R
+CHEM-321L,InstRumental Analysis Lab,CHEM,Chemistry,0,UG,LAB,R,R,,R,R,R,R,R,R,R,,,R,R,R,R,R,R,R,R,R,R,,R,,,,
+CHEM-361,BiochemistRy I,CHEM,Chemistry,4,UG,LEC,R,R,,,,R,R,R,R,,,,R,,,R,R,,I,,R,,,R,R,,,
+CHEM-362,BiochemistRy I,CHEM,Chemistry,3,UG,LEC,R,R,R,R,,R,R,R,R,,,,R,R,R,R,R,,I,,R,R,,R,R,,,
+CHEM-363,BiochemistRy Lab,CHEM,Chemistry,1,UG,LAB,R,R,R,R,R,R,R,R,R,R,,,R,R,R,R,R,,I,,R,R,,R,R,,,
+CHEM-385,ChemistRy SeminaR,CHEM,Chemistry,1,UG,LEC,R,R,M,R,M,M,R,R,M,,,,R,,,,,,,,R,R,,R,M,,R,
+CHEM-411,Physical Chem I,CHEM,Chemistry,4,UG,LEC,,R,,,M,M,R,R,M,,,,R,,,,R,,,,M,R,,R,,,R,
+CHEM-411L,Physical ChemistRy I Lab,CHEM,Chemistry,0,UG,LAB,M,M,,M,M,M,R,M,M,R,,,M,I,R,R,M,,,,M,M,R,M,,,,
+CHEM-415,Physical Chem I,CHEM,Chemistry,3,UG,LEC,,R,,,R,M,R,R,R,,,,R,,,,R,,,,R,R,,R,,,,
+CHEM-425,Adv ORganic Chem,CHEM,Chemistry,3,UG,LEC,,,R,R,,,,R,R,,,,R,,,,R,R,,,,,,R,,,,
+CHEM-435,InoRganic ChemistRy,CHEM,Chemistry,4,UG,LEC,R,,,R,R,,R,R,R,,,,R,,R,R,R,R,,,R,,R,R,,,,
+CHEM-435L,InoRganic Chem Lab,CHEM,Chemistry,0,UG,LAB,R,,,R,R,R,,R,R,,,,R,,R,R,R,R,,R,R,R,R,R,,,,
+CHEM-465,Topics In ChemistRy,CHEM,Chemistry,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CHEM-496,IntRo to ReseaRch,CHEM,Chemistry,1,UG,RSCH,M,M,M,M,M,M,R,M,M,,,,M,,,,M,R,R,R,M,M,M,M,,,,M
+CHEM-498,ReseaRch in ChemistRy,CHEM,Chemistry,1,UG,RSCH,M,M,M,M,M,M,R,M,M,R,,,M,,,,M,R,R,R,M,M,M,M,M,,R,M
+CPTE-300,ChRistian SeRvice Computing,CPTR,Computing,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTE-316,Application SoftwaRe SuppoRt,CPTR,Computing,3,UG,LEC,R,R,R,R,R,R,R,R,R,,R,R,,,,,R,R,R,R,,,,,R,R,R,
+CPTE-433,NetwoRk AdministRation,CPTR,Computing,3,UG,LEC,M,M,M,M,R,R,R,M,M,M,R,M,R,,,,R,R,M,M,,R,,R,R,,M,
+CPTE-440,PRog & ScRipt foR Admin,CPTR,Computing,3,UG,LEC,,,,,R,R,R,R,R,R,,,,,,,R,R,R,R,,,,,,,,
+CPTE-465,Topics in ComputeR Technology,CPTR,Computing,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-108,#EssenceOfComputing,CPTR,Computing,3,UG,LEC,,,I,I,I,I,,I,,,,I,I,,,I,I,I,I,I,,,I,,I,,I,I
+CPTR-108L,#EssenceOfComputing Lab,CPTR,Computing,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-124,Fund of PRogRamming,CPTR,Computing,4,UG,LEC,,,,,I,I,,,I,I,,,,,,,,I,I,I,,,,,,,,
+CPTR-124L,Fund of PRogRam Lab,CPTR,Computing,0,UG,LAB,,,,I,I,I,,,I,I,,,,,,,,I,I,I,,,,,,,,
+CPTR-212,Web PRogRamming,CPTR,Computing,3,UG,LEC,,,,,R,R,R,,,,I,,,,,,R,R,R,R,,R,,,,,,
+CPTR-215,Fund of SoftwR Design,CPTR,Computing,4,UG,LEC,,,,,R,R,,,R,,,,,,,,R,R,R,R,,,,,R,R,R,R
+CPTR-215L,Fund of Softw Design Lab,CPTR,Computing,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-230,Windows AdministRation,CPTR,Computing,3,UG,LEC,,,,,I,I,,,R,,,,,,,,I,I,I,I,I,I,I,I,,,,
+CPTR-254,UNIX Systems Admin,CPTR,Computing,3,UG,LEC,,,,,,,,,,,,R,R,,,R,I,I,I,I,I,,,,,,,
+CPTR-265,Topics in ComputeR Science,CPTR,Computing,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-292,Computing InteRnship,CPTR,Computing,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-302,SoftwaRe Dev Tools,CPTR,Computing,1,UG,LAB,R,,,,,R,R,,R,,,,,,,,R,R,R,R,R,,R,,,,,
+CPTR-309,SoftwaRe EngineeRing,CPTR,Computing,3,UG,LEC,R,R,R,,,R,,,R,R,,R,,,,,R,,,R,,,,R,,,R,R
+CPTR-318,Data StRuc & AlgoRithms,CPTR,Computing,3,UG,LEC,,,,R,R,R,,,R,R,,,,,,,,R,R,R,,,,,,,,
+CPTR-319,Database Management Systems,CPTR,Computing,3,UG,LEC,,,,,R,R,,,,,,,,,,,R,R,R,R,,R,R,R,,,,
+CPTR-328,PRin of NetwoRking,CPTR,Computing,3,UG,LEC,,,,,R,R,,,,,,,,,,,R,R,R,R,,R,R,R,,,,
+CPTR-333,CptR ARchitectuRe & Design,CPTR,Computing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-365,OpeRating Systems,CPTR,Computing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-386,Technical WRiting in Computing,CPTR,Computing,1,UG,LEC,R,R,R,R,R,R,,R,R,,,,,,,,R,R,R,R,R,R,R,R,,,R,R
+CPTR-405,ORg of PRogRam Lang,CPTR,Computing,3,UG,LEC,,,,,R,R,,,R,,,R,,,,,R,R,R,R,,,,,R,,R,R
+CPTR-415,CompileR ConstRuction,CPTR,Computing,3,UG,LEC,,,,,M,M,,,M,M,,,,,,,,M,M,M,,,,,,,,
+CPTR-418,ARtificial Intelligence,CPTR,Computing,3,UG,LEC,R,R,R,R,R,R,,,M,M,,,,,,,R,R,R,R,,,,,,,,
+CPTR-425,ComputeR GRaphics,CPTR,Computing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-427,NetwoRk SecuRity,CPTR,Computing,3,UG,LEC,,,,,M,M,,,R,R,R,R,,,,,R,R,R,R,R,,R,,,,R,R
+CPTR-435,Mobile Appl Development,CPTR,Computing,3,UG,LEC,R,R,R,R,,R,,,,,,,,,,,R,R,R,R,,,,,,,,
+CPTR-442,TheoRy of Computation,CPTR,Computing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-444,Adv NetwoRk SecuRity,CPTR,Computing,3,UG,LEC,,,,,M,M,,,M,M,R,M,,,,,R,R,R,R,R,,M,,,,M,M
+CPTR-446,Web SeRvices,CPTR,Computing,3,UG,LEC,,,,,M,M,,,,,,R,,,,,R,R,R,R,,,,,,,R,R
+CPTR-454,CybeR FoRensics,CPTR,Computing,3,UG,LEC,,,,,M,M,,,M,,,M,,,,,M,M,M,M,M,M,M,,,,M,M
+CPTR-456,Adv Web PRogRamming,CPTR,Computing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-465,Topics in ComputeR Science,CPTR,Computing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-486,SenioR SeminaR,CPTR,Computing,2,UG,LEC,M,M,M,M,M,,,,,,,,,,,,,,,,,,,,,,,
+CPTR-488,SenioR PRoject,CPTR,Computing,2,UG,LAB,M,M,M,M,M,M,M,,,,,,M,M,M,M,M,M,M,M,,,,,M,,M,
+CPTR-492,Computing InteRnship,CPTR,Computing,1,UG,INT,,,,,M,M,M,M,M,M,,,M,M,M,M,M,M,M,M,,,,,M,,,
+EDUC-298,Tching WRtg 6-12 Educ,EDUC,Education,2,UG,LEC,R,R,R,R,I,I,I,I,I,R,I,I,I,R,R,R,R,I,I,R,R,R,,R,I,R,R,R
+EDUC-301,ESL:Issues & TRends,EDUC,Education,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-423,Issues in Adolescence,EDUC,Education,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-129,IntRo & Fdns Elem Educ,EDUC,Education,3,UG,LEC,,I,,I,,I,I,I,I,,I,I,I,I,I,I,I,,,,,I,I,I,I,I,I,I
+EDUC-317,Teaching With Technology,EDUC,Education,2,UG,LEC,I,R,,R,R,R,R,,R,,,,,,R,R,,,,R,,,,R,R,R,R,R
+EDUC-338,Fnds Inclusive Educ,EDUC,Education,3,UG,LEC,,R,,R,,R,R,R,R,,,,,R,R,R,R,R,,R,R,R,,R,R,R,R,R
+EDUC-338L,Fld Exp Fnds Incl Ed Lab,EDUC,Education,0,UG,LAB,,R,,R,,R,,,R,,,,,,R,R,R,R,,R,R,R,,R,R,R,R,R
+EDUC-457,Elem Soc Studies Methods,EDUC,Education,2,UG,LEC,,R,,R,,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,R
+EDUC-471,Enhanced St Tchg-Elem,EDUC,Education,10,UG,LEC,M,M,,M,M,M,M,M,M,M,,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+EDUC-472,Enhanced St Tchg-Sec,EDUC,Education,10,UG,ST,M,M,,M,M,M,M,M,M,M,,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+EDUC-473,Enhanced St Tchg K-12,EDUC,Education,10,UG,LEC,M,M,,M,M,M,M,M,M,M,,M,M,M,M,,,M,M,M,M,,M,M,M,M,M,M
+EDUC-476,PRacticum: ESL,EDUC,Education,1,UG,LEC,,R,,R,,R,R,R,R,,,R,R,R,R,R,R,,,R,,R,R,R,R,R,R,R
+EDUC-464,Teaching SeminaR,EDUC,Education,2,UG,LEC,M,M,,M,M,M,M,M,M,M,M,M,M,M,M,,M,M,M,M,M,M,M,M,M,M,M,M
+EDUC-102,Mathematical NumeRacy,EDUC,Education,3,UG,LEC,,,,I,,I,I,,,,,,,I,,,I,,,,,,,,,I,I,I
+EDUC-138,IntRo & Fdns Sec Educ,EDUC,Education,3,UG,LEC,R,R,R,R,R,R,,,,I,,,,R,,,,,,,R,,,,,R,R,R
+EDUC-322,Educ RsRch & Stats,EDUC,Education,3,UG,LEC,R,R,R,R,R,R,,,,R,,,,R,,R,R,,R,R,R,,,,,R,R,R
+EDUC-327,Elem Math Methods,EDUC,Education,3,UG,LEC,,,R,R,R,R,R,,,R,,,R,R,,R,R,,R,R,R,,,,,R,R,R
+EDUC-344,Sec Method & Assess,EDUC,Education,2,UG,LEC,,,R,R,R,R,,,,R,,,,R,,R,R,,R,R,R,,,,,R,R,R
+EDUC-346,Field Exp SecondaRy Ed,EDUC,Education,0,UG,LEC,R,R,R,R,R,R,R,,,R,,,,R,,R,R,,R,R,R,,,,,R,R,R
+EDUC-210,Tech Integ EaRly Child Educ,EDUC,Education,3,UG,LEC,R,I,,R,R,R,I,R,I,R,R,R,R,R,I,I,I,,,,,R,R,R,R,M,M,M
+EDUC-210T,Tech Integ EaRly Child ClassRm,EDUC,Education,3,UG,LEC,R,I,,R,R,R,I,R,I,R,R,R,R,R,I,I,I,,,,,R,R,R,R,M,M,M
+EDUC-302,ESL:StRategies & Meth,EDUC,Education,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M
+EDUC-233,ChildRen's LiteRatuRe,EDUC,Education,3,UG,LEC,I,,I,I,I,I,I,R,I,R,I,R,R,I,I,I,I,I,,R,,R,I,I,R,R,M,R
+EDUC-238,K-8 Bible Methods,EDUC,Education,3,UG,LEC,I,,R,R,I,R,I,R,I,R,R,R,R,I,I,I,I,,,R,,R,I,I,R,R,M,R
+EDUC-243,Fnds Elem LiteRacy,EDUC,Education,2,UG,LEC,R,I,R,R,R,R,R,R,I,R,R,R,R,I,R,I,I,,,R,,R,R,I,R,M,M,M
+EDUC-324,Elem Lang ARts Methods,EDUC,Education,3,UG,LEC,M,M,M,M,M,M,M,M,R,M,M,M,M,M,M,R,M,R,,M,,M,M,R,M,M,M,M
+EDUC-339,PRin & Meth Tchg Rdg,EDUC,Education,3,UG,LEC,M,M,M,M,M,M,M,M,R,M,M,M,M,M,M,R,M,R,,M,,M,M,R,M,M,M,M
+EDUC-448,Response to InteRvention,EDUC,Education,2,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,,M,M,M,M,M,,M,M,M
+EDUC-201,TeacheR Educ Candidacy,EDUC,Education,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-331,Educ TheoRy & Assessment,EDUC,Education,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-345,Sec LRn TheoRy & Class Mgt,EDUC,Education,2,UG,LEC,R,R,R,R,R,R,R,R,I,I,I,R,R,I,R,R,I,,,R,R,R,R,R,R,M,R,M
+EDUC-421,BehavioR Mgmt--ElementaRy,EDUC,Education,2,UG,LEC,R,R,R,R,R,R,R,R,I,I,I,R,R,I,R,R,I,,,R,R,R,R,R,R,M,R,M
+EDUC-434,Rdg & Wtg Content AReas,EDUC,Education,2,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,I,I,I,R,I,I,I,I,R,R,R,R,R,R,M,R,M
+EDUC-454,Elem Sci & Hlth Methods,EDUC,Education,2,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,R,R,R,M,M,M,M,M,M,M
+EDUC-419,Phil & LdR ChRistn Ed,EDUC,Education,3,UG,LEC,M,M,R,M,R,R,I,R,I,M,,,,,,,,,,,,,,,,M,M,M
+EDUC-342,CuRR & Content Meth-Sec,EDUC,Education,2,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,R,R,R,M,M,M,M,M,M,M
+EDUC-475,Wkshop in Educ (Methodology),EDUC,Education,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-485,Wksp in Education (Content),EDUC,Education,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-485T,WoRkshop in Education,EDUC,Education,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-242,Elem NumeRacy Concepts,EDUC,Education,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-303,PRofessional SeminaR,EDUC,Education,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-341,Gen Meth & Assessment,EDUC,Education,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-341L,Fld Exp:Gen Meth & Assessment,EDUC,Education,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-343,LeaRn TheoR & ClassRm Mgt,EDUC,Education,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-343L,Fld Exp:LRn TheoR/ClassRm Mgt,EDUC,Education,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDUC-305,PRimaRy LiteRacy,EDUC,Education,3,UG,LEC,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,I,I,R,R,R,R,R,R,M,M,M
+EESL-127,GRam Engl Lang LeaRn I,ENGL,English,3,UG,LEC,I,I,I,,I,I,I,I,I,,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+EESL-128,GRam Engl Lang LeaRn 2,ENGL,English,3,UG,LEC,I,I,I,,I,I,I,I,I,,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+EESL-137,WRtg Engl Lang LeaRn I,ENGL,English,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+EESL-138,WRtg Engl Lang LeaRn 2,ENGL,English,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+EESL-147,Rdg & CRit Think Acad I,ENGL,English,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+EESL-148,Rdg & CRit Think Acad 2,ENGL,English,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+EESL-157,ORal Skills Academic I,ENGL,English,3,UG,LEC,,I,I,,I,I,I,I,I,,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+EESL-158,ORal Skills Academic 2,ENGL,English,3,UG,LEC,,I,I,,I,I,I,I,I,,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+EESL-195,DiRected Study,ENGL,English,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ELIT-175,TRansfoRmative Texts,ENGL,English,3,UG,LEC,I,I,,,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,I,I,I,I,I,I
+ELIT-214,SuRvey AmeR Lit,ENGL,English,3,UG,LEC,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-215,SuRvey Engl Lit,ENGL,English,3,UG,LEC,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-216,AppRoaches to Lit,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-265,Topics in LiteRatuRe,ENGL,English,1,UG,LEC,,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-309,Readings in English,ENGL,English,1,UG,LEC,,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-323,AmeR Class 19th CentuRy,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-332,Studies Medieval Lit,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-333,Poets & Engl Renaissance,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-335,Bible As LiteRatuRe,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-337,BRitish Class 19th Cent,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-338,20th CentuRy WRiteRs,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-340,C.S. Lewis,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-342,AfRican AmeRican Lit,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-346,ShakespeaRe,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-417,InteRcultuRal Contexts,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-425,Lit of the South,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-430,LibRaRy Mat Young Adults,ENGL,English,2,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-444,BRitish Class 18th Cent Lit,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-445,Ancient Classics,ENGL,English,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-450,You/Me/We:Contemp Lit,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-463,LiteRaRy CRiticism,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-465,Topics in LiteRatuRe,ENGL,English,1,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-468,Milton SeminaR,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ELIT-490,SenioR Capstone,ENGL,English,1,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,M,I,M,R,R,R,M,M
+ENGL-100,Fund CRit Think Rdg/WRtg,ENGL,English,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,I,I,I,I,I,I
+ENGL-101,CRit Think Ac Rdg/WRtg I,ENGL,English,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+ENGL-102,CRit Think Ac Rdg/WRtg I,ENGL,English,3,UG,LEC,R,R,R,R,I,I,I,R,R,R,I,I,I,I,I,I,I,I,I,R,I,I,R,I,I,I,I,I
+ENGL-103,H:CRit Think Ac Rdg/WRtg I,ENGL,English,3,UG,LEC,R,R,R,R,I,I,I,R,R,R,I,I,I,I,I,I,I,I,I,R,I,I,R,I,I,I,I,I
+ENGL-106,H:CRit Think Ac Rdg/WRtg I,ENGL,English,1,UG,LEC,R,R,R,R,I,I,I,R,R,R,I,I,I,I,I,I,I,I,I,R,I,I,R,I,I,I,I,I
+ENGL-109,Reading foR CompRehension,ENGL,English,1,UG,LEC,,,,I,I,,I,I,I,,I,I,,,,,,I,,I,,,I,,,,,
+ENGL-132,PRogRammed GRammaR Study,ENGL,English,1,UG,LEC,,,,,I,,I,I,,,,,,,,,,,,,,,,,,,,
+ENGL-150,Engl MajoR Qualification,ENGL,English,0,UG,LEC,,,,,I,,I,I,,,I,I,,,,,,I,,I,,I,,,,,,
+ENGL-200,ChRistian SeRvice Engl,ENGL,English,0,UG,LEC,,,,,R,R,R,R,,R,R,I,I,I,I,I,I,I,I,I,I,,R,I,I,I,I,I
+ENGL-202,GRammaR & Consequences,ENGL,English,3,UG,LEC,I,I,,,I,,,I,I,,R,I,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-209,Tchg Engl in Community,ENGL,English,1,UG,LEC,,,I,,I,,R,R,I,R,R,I,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-210,Engl Conv/Study TouR,ENGL,English,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ENGL-220,CReative WRt:Tools of CRaft,ENGL,English,3,UG,LEC,I,,,I,R,R,R,R,I,R,R,I,I,I,I,I,I,R,I,R,I,,R,I,I,I,I,I
+ENGL-265,Topics in English,ENGL,English,1,UG,LEC,,,,,,,,,,,R,,,,,,,,,,,,R,,,,,
+ENGL-300,ChRistian SeRvice English,ENGL,English,0,UG,LEC,,,,,R,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-301,ESL:Issues and TRends,ENGL,English,3,UG,LEC,R,R,,R,,,,R,R,,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-302,ESL:StRategies & Meth,ENGL,English,3,UG,LEC,R,R,,R,,,,R,R,,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-306,CReative WRtg:Lit Nonfiction,ENGL,English,3,UG,LEC,R,,,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-307,CReative WRiting:Fiction,ENGL,English,3,UG,LEC,R,,,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-308,CReative WRiting:PoetRy,ENGL,English,3,UG,LEC,R,,,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-309,Readings in English,ENGL,English,1,UG,LEC,,,,,,,,R,,,R,,,,,,,R,,,,,,,,,,
+ENGL-313,ExpositoRy WRiting,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-317,IntRo to Linguistics,ENGL,English,3,UG,LEC,,R,,R,,,,R,R,,R,R,R,R,R,R,R,R,R,R,R,I,R,R,R,R,R,R
+ENGL-320,RhetoRic:PeRf ARgument,ENGL,English,3,UG,LEC,,R,,R,,,,R,R,,R,R,R,R,R,R,R,R,R,R,R,I,R,R,R,R,R,R
+ENGL-414,Map Publication Maze,ENGL,English,3,UG,LEC,R,R,,R,R,R,R,R,,M,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R
+ENGL-420,Tech & PRof WRiting,ENGL,English,3,UG,LEC,M,R,,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+ENGL-460,SR RsRch PRoj in Engl,ENGL,English,1,UG,RSCH,M,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,M,M,M,M,,M,R,R,R,M,M
+ENGL-465,Topics in English,ENGL,English,1,UG,LEC,R,R,,R,,,,,R,,R,,,,,,,R,,R,R,,R,,,,,
+ENGL-476,PRacticum: ESL,ENGL,English,1,UG,LEC,R,R,R,R,M,R,M,R,R,M,R,R,R,R,R,R,R,M,M,M,M,R,M,R,R,R,M,M
+ENGL-491,English PRacticum,ENGL,English,0,UG,PRAC,R,R,R,R,M,R,M,R,R,M,R,R,R,R,R,R,R,M,M,M,M,R,M,R,R,R,M,M
+ENGL-493,English InteRnship,ENGL,English,0,UG,INT,R,R,R,R,M,R,M,R,R,M,R,R,R,R,R,R,R,M,M,M,M,R,M,R,R,R,M,M
+GEOG-204,WoRld GeogRaphy,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,R,R,R,I,I,I,R,I,R,R,R,R,R,R,I,R,I,M,R,R,R,R,M,M
+HIST-130,IntRo Hist of Science,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,R,R,R,I,R,I,I,R,R,R,R,R,R,R,I,R,I,R,R,I,R,I,I,R
+HIST-140,IntRo AfRican-AmeR Hist,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,R,R,R,R,R,I,R,I,R,I,I,R,I,I,I,R,I,I,I,I,I,R,R,R
+HIST-145,AmeRican Civil WaR,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+HIST-154,US Hist ThR Civil WaR,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+HIST-154T,US Hist thR Civil WaR,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+HIST-155,US Hist snc Civil WaR,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+HIST-174,WoRld Soc to 1500,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,,I,I,I,R,I,I,,,R,I,,I,,,I,I,I,I,I,I,I
+HIST-175,WoRld Soc Since 1500,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,R,I,I,,,R,I,,I,,,I,I,I,I,I,I,I
+HIST-250,Women in AmeRican Hist,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,R,I,I,,,R,,,I,I,I,I,I,I,I,R,R,R
+HIST-260,NoRth AmeR EnviR Hist,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,,I,,,I,I,I,I,I,I,I,I,I,I,I,I,I
+HIST-265,Topics in HistoRy,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+HIST-280,H:Technology & PoweR,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+HIST-294,InteRnational Study TouR,HIST,History And Political Studies,3,UG,TOUR,,,I,,R,I,I,I,I,I,R,I,I,I,R,R,R,,,R,,I,,I,R,R,R,R
+HIST-296,U.S. Study TouR,HIST,History And Political Studies,3,UG,TOUR,,,I,,R,I,I,I,I,I,R,I,I,I,R,R,R,I,I,R,I,I,,I,R,R,R,R
+HIST-298,HistoRiogRaphy,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,I,R,R,R,I,R,R,R,R,R,R,I,I,R,R,R,I,R,R
+HIST-312,Hist & Political Geog,HIST,History And Political Studies,3,UG,LEC,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-345,Mid EstRn Pol & Hist,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-351,Colonial Latin AmeRica,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,I,R,I,R,I,R,R,I,R,R,R,I,I,R,R,R,R,R,R
+HIST-352,19th CentuRy AmeRica,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,I,R,I,R,I,R,R,I,R,R,R,I,I,R,R,R,R,R,R
+HIST-353,FRom Colony To Nation,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-356,Race/Ethn/Immig Am Hist,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-357,ModeRn AmeRica,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-359,AmeRica At Play,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,I,I,R,R,R,R,R,R
+HIST-363,Ch ChuRchI:FR EaRly Ch-M-Ages,HIST,History And Political Studies,3,UG,LEC,I,I,R,R,R,R,R,R,R,I,R,,R,,I,R,I,R,I,I,,I,I,R,I,R,R,R
+HIST-364,Ch ChuRch I:FR EaRly Ch-M Age,HIST,History And Political Studies,3,UG,LEC,R,R,R,I,R,R,R,R,R,I,R,,R,,I,R,I,R,R,I,,I,R,R,I,R,R,R
+HIST-365,Ch ChuRch I:FRom Ref-20th Cen,HIST,History And Political Studies,3,UG,LEC,I,I,R,R,R,R,R,R,R,I,R,,R,,I,R,I,R,R,I,,I,R,R,I,R,R,R
+HIST-366,Ch ChuRchI:FR Ref-20th Cent,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,I,R,,R,,I,R,I,R,I,I,,I,I,R,I,R,R,R
+HIST-372,ModeRn China,HIST,History And Political Studies,3,UG,LEC,R,R,R,I,R,R,R,R,R,I,R,,R,,I,R,I,R,R,I,,I,R,R,I,R,R,R
+HIST-374,HistoRy of England,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,,R,I,I,R,I,R,R,I,I,I,R,R,R,R,R,R
+HIST-375,Ancient GReece & Rome,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,I,I,R,R,R,R,R,,R,I,I,R,I,R,R,I,I,I,R,R,R,R,R,R
+HIST-379,AmeRican FoReign Policy,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-380,"PiRates, Captives, & Slaves",HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-386,Medieval EuRope,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-387,EuRope 19th CentuRy,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,I,I,R,R,R,R,R,,R,I,I,R,I,R,R,I,I,I,R,R,R,R,R,R
+HIST-388,Contemp EuRope,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,I,I,I,I,I,R,R,I,I,I,I,I,I,I,R,R
+HIST-389,Hist of the Holocaust,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-450,HistoRy SeminaR,HIST,History And Political Studies,3,UG,LEC,M,M,M,M,M,M,M,M,M,I,I,I,R,I,I,R,R,R,R,I,I,I,M,M,M,I,M,M
+HIST-464,Topics in HistoRy,HIST,History And Political Studies,1,UG,LEC,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-465,Topics in HistoRy,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R,I,R,R,R,I,R,R,R,R,R
+HIST-471,WstRn Pol ThR Renaissance,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-472,WstRn Pol Snc Renaissance,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HIST-490,SenioR Exam PRep,HIST,History And Political Studies,1,UG,LEC,,M,M,M,M,M,M,M,M,,,,M,,,R,,,M,R,M,M,M,M,M,R,R,R
+HIST-494,InteRnational Study TouR,HIST,History And Political Studies,3,UG,TOUR,,,I,I,I,I,I,I,I,I,R,R,R,I,R,R,R,R,R,R,I,I,R,R,R,I,R,R
+HIST-496,U.S. Study TouR,HIST,History And Political Studies,3,UG,TOUR,,,I,I,I,I,I,I,I,I,R,R,R,I,R,R,R,R,R,R,I,I,R,R,R,I,R,R
+HIST-497,RsRch Meth HistoRy,HIST,History And Political Studies,3,UG,RSCH,M,M,M,M,M,M,M,M,M,M,M,R,R,R,R,R,R,R,M,M,M,M,M,M,M,M,M,M
+HMNT-151,H:LeaRning:An IntRo,HIST,History And Political Studies,1,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I
+HMNT-205,"StoRies, StRuctuRe & Song",HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I
+HMNT-211,IntRo to Philosophy,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,R,R,R,R,R
+HMNT-251,H:Phil & PRac of RsRch,HIST,History And Political Studies,1,UG,LEC,I,I,I,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HMNT-294,Chinese CultuRal & Pol Studies,HIST,History And Political Studies,1,UG,LEC,,I,I,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+HMNT-451,H:InteRdis Studies:Belief,HIST,History And Political Studies,1,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,M,M,M,M,M,M,M,M,M,M
+HMNT-452,H:InteRdisc Studies:Doubt,HIST,History And Political Studies,1,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,M,M,M,M,M,M,M,M,M,M
+HMNT-494,Chinese CultuRal & Pol Studies,HIST,History And Political Studies,1,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,M,M,M,M,M,M,M
+INDV-110,Human Rights & SeRvice,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+INDV-220,Int'l Rel & Global Politcs,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+INDV-230,Int'l ORg in Int'l Development,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+INDV-250,CRoss-CultuRal ExpeRience,HIST,History And Political Studies,3,UG,LEC,,,I,I,I,R,R,R,R,R,R,R,R,R,R,R,R,I,I,M,I,I,I,M,M,M,M,M
+INDV-265,Topics in INDV,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,,,,,,,,,,,,,,,,,,,,,,,,
+INDV-291,PRacticum,HIST,History And Political Studies,3,UG,PRAC,,,I,I,R,R,R,R,I,R,I,I,I,I,R,R,R,R,I,R,I,I,M,M,M,M,M,M
+INDV-320,Issues in Dev and Ethics,HIST,History And Political Studies,2,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,M,M,,M,M,R,R,R,R,R,R,M,M,M,M,M
+INDV-350,Sustainable AgRicultuRe,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,R,R,R,R,R,I,I,I,I,I,I,,,,,
+INDV-360,Political Economy,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,I,I,I,I,R,,,R,,,,I,I,R,R,R,M,M,R,R,I,I,I,I
+INDV-370,Policies in Global Health,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,I,I,I,I,R,,,R,R,R,R,I,I,R,R,R,M,M,R,R,I,I,I,I
+INDV-465,Topics in INDV,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+INDV-480,ReseaRch Methods,HIST,History And Political Studies,3,UG,LEC,M,M,M,M,R,R,R,R,R,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+INDV-490,ORal Exam,HIST,History And Political Studies,1,UG,LEC,,M,M,M,M,M,M,M,M,,I,I,I,,,,,R,R,,M,M,M,M,M,M,M,M
+INDV-491,PRacticum,HIST,History And Political Studies,3,UG,LEC,,,I,R,R,R,R,R,I,R,I,I,I,I,R,R,R,R,I,R,I,I,M,M,M,M,M,M
+INDV-495,DiRected Study,HIST,History And Political Studies,1,UG,LEC,I,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+INDV-498,SenioR Capstone,HIST,History And Political Studies,0,UG,LEC,,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,I,I,I,I,I,R,R,R,R,R
+INDV-499,ORal Exam,HIST,History And Political Studies,1,UG,LEC,,M,M,M,M,M,M,M,,,,,M,,,R,,,M,R,M,M,M,M,M,R,R,R
+INDV-LD,Int'l Dev Studies-LoweR Div,HIST,History And Political Studies,1,UG,LEC,I,I,R,I,,,,,,,,,,,,,,,,,,,,,,,,
+PLSC-103,TRial Advocacy Basics,HIST,History And Political Studies,1,UG,LEC,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+PLSC-224,PRin MacRoeconomics,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,,,,,,,,,I,I,I,I,I,I,,,,,
+PLSC-254,AmeR Nation & State Gov,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+PLSC-260,CompaRative Politics,HIST,History And Political Studies,3,UG,LEC,I,I,I,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-265,Topics in Political Science,HIST,History And Political Studies,1,UG,LEC,I,I,R,I,,,,,,,,,,,,,,,,,,,,,,,,
+PLSC-291,Political Sci PRac,HIST,History And Political Studies,0,UG,LEC,,,I,I,R,R,R,R,I,R,I,I,I,I,R,R,R,R,I,R,I,I,M,M,M,M,M,M
+PLSC-292,Political Science InteRnship,HIST,History And Political Studies,9,UG,LEC,,,I,I,R,R,R,R,I,R,I,I,I,I,R,R,R,R,I,R,I,I,M,M,M,M,M,M
+PLSC-310,Moot CouRt,HIST,History And Political Studies,1,UG,LEC,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+PLSC-320,TN InteRcollegiate State,HIST,History And Political Studies,1,UG,LEC,,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+PLSC-330,US Constitutional Law,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-345,Mid EstRn Pol & Hist,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-353,FRom Colony to Nation,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-356,Race/Ethn/Immig Am Hist,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-357,ModeRn AmeRica,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-372,ModeRn China,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-379,AmeRican FoReign Policy,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-388,Contemp EuRope,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-450,Legal WRtg & RsRch,HIST,History And Political Studies,3,UG,LEC,M,M,R,M,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,R,R,R,R,R,R,R,R,R
+PLSC-465,Topics in Political Science,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,,
+PLSC-471,WstRn Pol ThR Renaissance,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-472,WstRn Pol Snc Renaissance,HIST,History And Political Studies,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PLSC-490,ORal Exam,HIST,History And Political Studies,1,UG,LEC,,M,M,M,M,M,M,M,,,,,M,,,,,,M,R,M,M,M,M,M,R,R,R
+PLSC-491,Political Sci PRac,HIST,History And Political Studies,0,UG,PRAC,,,I,R,R,R,R,R,I,R,I,I,I,I,R,R,R,R,I,R,I,I,M,M,M,M,M,M
+PLSC-498,SenioR Capstone,HIST,History And Political Studies,0,UG,LEC,,M,M,M,M,M,M,M,,,,,M,,,R,,,M,R,M,M,M,M,M,R,R,R
+MATH-200,Elem LineaR AlgebRa,MATH,Mathematics,2,UG,LEC,,I,,,R,R,,,R,,,,,,,,R,R,R,R,,,,,,,R,R
+MATH-201,InteRm LineaR Alg,MATH,Mathematics,3,UG,LEC,,I,,,R,R,,,R,,,,,,,,R,R,R,R,,,,,,,R,R
+MATH-205,TutoRing in Math,MATH,Mathematics,1,UG,LEC,,,,,,,,I,R,I,I,,I,I,I,I,I,I,I,I,,,,,I,I,I,I
+MATH-215,Statistics,MATH,Mathematics,3,UG,LEC,,I,I,,I,R,,,R,R,,,I,I,I,I,R,R,R,R,I,I,I,I,,,I,R
+MATH-218,Calculus II,MATH,Mathematics,4,UG,LEC,,,,,R,R,,,R,R,,,,,,,R,R,R,R,,,,,,,R,R
+MATH-219,Set TheoRy & Logic,MATH,Mathematics,3,UG,LEC,I,I,,I,R,R,,,R,I,,,,,,,R,R,R,R,,,,,,,I,R
+MATH-265,Topics in Mathematics,MATH,Mathematics,1,UG,LEC,,,,,R,R,,,R,,,,,,,,R,R,R,R,,,,,,,R,R
+MATH-280,DiscRete Math StRuctuRe,MATH,Mathematics,3,UG,LEC,,I,,I,I,I,,,I,I,,,,,,,I,I,,I,,,,,,,I,
+MATH-305,TutoRing in Math,MATH,Mathematics,1,UG,LEC,,,,,,,,I,R,R,R,,R,R,R,R,R,R,R,R,,,,,R,R,R,R
+MATH-312,HistoRy of Math,MATH,Mathematics,3,UG,LEC,R,R,M,R,M,M,,R,R,,R,,,,,,R,R,R,R,,,,,M,R,R,R
+MATH-315,DiffeRential Equations,MATH,Mathematics,3,UG,LEC,,,,,M,M,,,R,I,,,,,,,R,R,R,R,,,,,,,I,M
+MATH-316,PaRtial Diff Equations,MATH,Mathematics,3,UG,LEC,,R,,,M,M,,,M,R,,,,,,,R,R,R,R,,,,,,,R,M
+MATH-317,Complex VaRiables,MATH,Mathematics,3,UG,LEC,,R,,,M,M,,,M,,,,,,,,R,R,R,R,,,,,,,M,M
+MATH-318,AbstRact AlgebRa,MATH,Mathematics,3,UG,LEC,R,M,,R,M,M,,,M,M,,,,,,,M,M,M,M,,,,,,,M,M
+MATH-320,NumeRical Analysis,MATH,Mathematics,3,UG,LEC,,R,,,M,M,,,M,,,,,,,,R,R,R,R,,,,,,,R,M
+MATH-327,PRobability & Statistics,MATH,Mathematics,4,UG,LEC,,R,,,M,M,,,M,R,,,,,,,M,M,M,M,R,,R,R,,,R,M
+MATH-329,ActuaRial Exam P PRep,MATH,Mathematics,3,UG,LEC,,R,I,,M,M,,R,M,M,,,R,,,,R,R,R,R,R,R,R,M,M,,M,M
+MATH-410,Real Analysis,MATH,Mathematics,3,UG,LEC,R,M,,R,M,M,,,M,M,,,,,,,M,M,M,M,,,,,,,M,M
+MATH-415,GeometRy,MATH,Mathematics,3,UG,LEC,R,M,,R,M,M,,,M,M,,,,,,,M,M,M,M,,,,,,,M,M
+MATH-465,Topics in Math,MATH,Mathematics,3,UG,LEC,,,,,R,R,,,R,,,,,,,,R,R,R,R,,,,,,,R,R
+MATH-485,Math SeminaR,MATH,Mathematics,1,UG,LEC,M,M,R,M,M,M,,R,R,M,,,R,R,R,R,R,R,R,R,R,,R,R,R,,R,M
+MATH-486,Math SeminaR I,MATH,Mathematics,1,UG,LEC,M,M,M,M,M,M,,M,M,M,,,M,R,R,R,M,M,M,M,M,,M,M,M,,M,M
+MATH-490,SenioR Capstone,MATH,Mathematics,1,UG,LEC,,M,R,,M,M,,R,R,R,,,,,,,M,M,M,M,,,,M,M,,M,M
+MATH-GR,Math GRaduate TRansfeR CouRse,MATH,Mathematics,3,GR,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACA-050,Adventist Colleges AbRoad,MDLG,Modern Languages,0,UG,LEC,I,,,I,,I,I,,,I,I,I,I,I,,I,I,,I,I,,,,,,,,
+ARAB-121,Basic ConveRsation,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARAB-131,Basic WRiting,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARAB-141,Basic Reading,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARAB-260,CuRRent Events in ARab WoRld,MDLG,Modern Languages,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARAB-270,ARab People and TheiR CultuRe,MDLG,Modern Languages,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARAB-280,Religion,MDLG,Modern Languages,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-101,AmeR Sign Lang I,MDLG,Modern Languages,3,UG,LEC,,,I,I,,I,I,I,I,I,I,I,I,,,I,I,,I,I,,,,,,,,
+ASL-101L,AmeR Sign Lang I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-102,AmeR Sign Lang I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-102L,AmeR Sign Lang I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-207,InteRmed ASL I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-207L,InteRmed ASL I Lab,MDLG,Modern Languages,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-208,InteRm ASL I,MDLG,Modern Languages,3,UG,LEC,,,M,M,,M,M,M,M,M,M,M,M,,,M,M,,M,M,,,,,,,,
+ASL-208L,InteRm AmeR Sign Lang I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-250,Deaf CultuRe,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-265,Topics AmeRican Sign Language,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,I,,,,,,,,,,,,
+ASL-340,ASL Linguistics,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ASL-465,Topics AmeRican Sign Language,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-101,Elem FRench I,MDLG,Modern Languages,3,UG,LEC,,,I,I,,I,I,I,I,I,,I,I,,,I,I,,I,I,,,,,,,,
+FREN-101L,Elem FRench I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-102,Elem FRench I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-102L,Elem FRench I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-207,InteRm FRench I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-207L,InteRm FRen I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-208,InteRm FRench I,MDLG,Modern Languages,3,UG,LEC,,,M,M,,M,M,M,M,M,,M,M,,,M,M,,M,M,,,,,,,,
+FREN-208L,InteRm FRen I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-244,FRen Comp & Conv,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-265,Topics in FRench,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-305,FRench foR Business,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-344,Adv FRench Compos & ConveRsat,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-350,FRench Linguistics,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-353,FRen CultuRe & Civ,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-357,SuRv of FRen Med & Renais Lit,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-358,SuRv FRen 17 & 18 Cent Lit,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-458,SuRv FRen 19/20th Cen Lit,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-459,FRancophone CultuRes & Lit,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-465,Topics CouRse,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FREN-490,CompRehen Examin PRep,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,M,,M,,,,,,,,
+GMN-101,Elem GeRman I,MDLG,Modern Languages,3,UG,LEC,,,I,I,,I,I,I,I,I,,I,I,,,I,I,,,I,,,,,,,,
+GMN-101L,Elem GeRman I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GMN-102,Elem GeRman I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GMN-102L,Elem GeRman I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GMN-207,InteRm GeRman I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GMN-207L,InteRm GeRman I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GMN-208,InteRm GeRman I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GMN-208L,InteRm GeRman I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GMN-295,DiRected Study,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITAL-101,Elem Italian I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITAL-102,Elem Italian I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITAL-207,InteRmediate Italian I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITAL-208,InteRmediate Italian I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITAL-ALD,Italian - LoweR Division,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MAND-101,Elem MandaRin I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MAND-102,Elem MandaRin I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MAND-207,InteRmediate MandaRin,MDLG,Modern Languages,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MDLG-165,Topics,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MDLG-230,CRitical Meth Lang,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,I,,,I,,,,,I,I,,I,,,,,,,,
+MDLG-266,Topics,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MDLG-300,ChRistian SeRvice Mod Lang,MDLG,Modern Languages,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MDLG-350,Global Citizen Sem I,MDLG,Modern Languages,1,UG,LEC,,,M,,,R,,,,,,,,,,,,,,M,,,,,,,,
+MDLG-350L,Global Citizen Sem I Lab-Span,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MDLG-450,Global Citizen Sem I,MDLG,Modern Languages,1,UG,LEC,,,M,M,,M,M,,,M,,M,,,,,,,,,,,,,,,,
+MDLG-465,Topics in ModeRn Languages,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MDLG-490,MLD Exit Exam (DEE),MDLG,Modern Languages,1,UG,LEC,M,,,M,,,,M,M,,,,M,,,,,,,M,,,,,,,,
+SPAN-101,Elem Spanish I,MDLG,Modern Languages,3,UG,LEC,I,,I,I,,I,I,I,I,I,,,I,,,,I,,,I,,,,,,,,
+SPAN-101L,Elem Span I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-102,Elem Spanish I,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-102L,Elem Span I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-103,Span foR Health CaRe PRof,MDLG,Modern Languages,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-207,InteRm Spanish I,MDLG,Modern Languages,3,UG,LEC,,,,R,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-207L,InteRm Span I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-208,InteRm Spanish I,MDLG,Modern Languages,3,UG,LEC,M,,M,M,,M,M,M,M,M,,,M,,,,,,,M,,,,,,,,
+SPAN-208L,InteRm Span I Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-243,Comp & ConveRsation,MDLG,Modern Languages,3,UG,LEC,M,,,,,M,M,M,M,M,,,M,,,,,,,M,,,,,,,,
+SPAN-265,Topics in Spanish,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-265L,Span HlthcaRe PRof Lab,MDLG,Modern Languages,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-354,Hispanic CultuRe & Civ,MDLG,Modern Languages,3,UG,LEC,M,,M,M,,,,M,M,M,,,M,,,,,,,M,,,,,,,,
+SPAN-355,SuRvey of Span Lit,MDLG,Modern Languages,3,UG,LEC,M,,M,M,,M,M,M,M,M,,M,M,,,,M,,,M,,,,,,,,
+SPAN-356,SuRvey Span-AmeR Lit,MDLG,Modern Languages,3,UG,LEC,M,,M,M,,M,M,M,M,M,,M,M,,,,M,,,M,,,,,,,,
+SPAN-465,Topics,MDLG,Modern Languages,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SPAN-490,Comp Exam PRep,MDLG,Modern Languages,1,UG,LEC,M,,,M,,M,M,M,M,M,,M,M,,,,M,,,M,,,,,,,,
+MUCH-216,Music in ChRistian ChuRch,MUS,Music,3,UG,LEC,,,,,R,,,,,,,,,R,R,R,,,,,,,,,R,,,R
+MUCH-316,"ChuRch Music, Mat & Admin",MUS,Music,2,UG,LEC,R,,M,M,R,R,R,M,M,M,M,M,M,R,R,R,M,M,M,M,,,R,R,M,R,M,M
+MUCH-317,Music/WoRship Contemp ChuRch,MUS,Music,2,UG,LEC,R,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MUCH-489,Mus & WoRship SR PRoj,MUS,Music,2,UG,LEC,R,,M,M,R,R,R,M,M,M,M,M,M,R,R,R,M,M,M,M,,,R,R,M,R,M,M
+MUCT-107,Basic Musicianship I,MUS,Music,1,UG,LEC,,,,,R,R,R,,,,,,,,,,I,I,I,I,,,,,R,,,I
+MUCT-108,Basic Musicianship I,MUS,Music,1,UG,LEC,,,,,R,R,R,,,,,,,,,,R,R,R,R,,,,,R,,,R
+MUCT-111,Music TheoRy I,MUS,Music,3,UG,LEC,I,,I,I,R,R,R,,I,I,,I,I,I,I,I,I,I,I,I,I,I,,,R,,I,I
+MUCT-112,Music TheoRy I,MUS,Music,3,UG,LEC,R,,R,R,R,R,R,,R,R,,R,R,R,R,R,R,R,R,R,R,R,,,R,,R,R
+MUCT-121,AuRal TheoRy I,MUS,Music,1,UG,LEC,,,I,,R,R,R,,,,,,R,,R,R,I,I,I,I,,,,,R,,,I
+MUCT-122,AuRal TheoRy I,MUS,Music,1,UG,LEC,,,R,,R,R,R,,,,,,R,,R,R,R,R,R,R,,,,,R,,,R
+MUCT-211,Music TheoRy II,MUS,Music,3,UG,LEC,R,,R,R,R,R,R,,R,R,,R,R,R,R,R,R,R,R,R,R,R,,,R,,R,R
+MUCT-212,Music TheoRy IV,MUS,Music,3,UG,LEC,R,,R,R,R,R,R,,R,R,,R,R,R,R,R,R,R,R,R,R,R,,,R,,R,R
+MUCT-221,AuRal TheoRy II,MUS,Music,1,UG,LEC,,,R,,R,R,R,,,,,,R,,R,R,R,R,R,R,,,,,R,,,R
+MUCT-222,AuRal TheoRy IV,MUS,Music,1,UG,LEC,,,R,,R,R,R,,,,,,R,,R,R,R,R,R,R,,,,,R,,,R
+MUCT-313,ORchestRation & ARRanging,MUS,Music,3,UG,LEC,R,,R,M,R,R,R,,M,M,,M,,,,,M,M,M,M,M,M,M,,M,M,M,M
+MUCT-314,CounteRpoint,MUS,Music,3,UG,LEC,R,,R,M,R,R,R,,M,M,,M,,,,,M,M,M,M,M,M,M,,M,M,M,M
+MUCT-315,Compositional Techniques,MUS,Music,3,UG,LEC,R,R,M,M,R,R,R,,M,M,,M,,R,R,R,M,M,M,M,M,M,M,,M,M,M,M
+MUCT-413,Analy Music FoRms,MUS,Music,3,UG,LEC,R,R,,M,R,R,R,,M,M,,M,,,,,M,M,M,M,M,M,M,,M,M,M,M
+MUCT-465,Topics in Music,MUS,Music,1,UG,LEC,,,,R,R,R,R,,R,R,,R,,R,R,R,M,M,M,M,M,M,M,,M,M,M,M
+MUED-236,StRing Meth & Techn,MUS,Music,2,UG,LEC,,,,R,R,R,R,,,,,,,,,,R,R,R,R,,,,,R,,R,R
+MUED-246,BRass Meth & Tech,MUS,Music,2,UG,LEC,,,,R,R,R,R,,,,,,,,,,R,R,R,R,,,,,R,,R,R
+MUED-250,Tech in Music Educ,MUS,Music,2,UG,LEC,,,,R,R,R,R,,R,R,,R,,,,,R,R,R,R,,,,,R,,R,R
+MUED-256,Woodwind Meth & Tech,MUS,Music,2,UG,LEC,,,,R,R,R,R,,,,,,,,,,R,R,R,R,,,,,R,,R,R
+MUED-266,PeRcussion Meth & Tech,MUS,Music,2,UG,LEC,,,,R,R,R,R,,,,,,,,,,R,R,R,R,,,,,R,,R,R
+MUED-316,Piano Pedagogy,MUS,Music,2,UG,PLES,R,M,M,M,M,M,M,,M,M,M,M,,,,,M,M,M,M,M,M,M,,M,M,M,M
+MUED-317,Voice Pedagogy,MUS,Music,2,UG,LEC,R,M,M,M,M,M,M,,M,M,M,M,,,,,M,M,M,M,M,M,M,,M,M,M,M
+MUED-318,ORgan Pedagogy,MUS,Music,2,UG,LEC,R,M,M,M,M,M,M,,M,M,M,M,,,,,M,M,M,M,M,M,M,,M,M,M,M
+MUED-331,Music in Elem School,MUS,Music,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,M,R,R,M,,M,M,M,M
+MUED-332,Music SecondaRy School,MUS,Music,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,M,R,R,M,,M,M,M,M
+MUED-439,PRe-Student Teaching SeminaR,MUS,Music,1,UG,ST,R,M,M,M,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,M,M,M,M
+MUHL-115,Mus in WesteRn CultuRe,MUS,Music,3,UG,LEC,R,,,,R,R,R,,,,,,,,,,,,,,,,,,R,,R,R
+MUHL-120,Music in United States,MUS,Music,3,UG,LEC,R,,,,R,R,R,,,,,,,,,,,,,,,,,,R,,R,R
+MUHL-218,Mus Styles & RepeRtoRies,MUS,Music,3,UG,LEC,R,,,R,R,,,,,,,,,,,,,,,,,,,,R,,R,R
+MUHL-320,Mus in Mid Ages & Renaissance,MUS,Music,2,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,R,,R,,R,R
+MUHL-321,Mus Late Renais & BaRoque,MUS,Music,2,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,R,,R,,R,R
+MUHL-322,Classic & Romantic Music,MUS,Music,2,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,R,,R,,R,R
+MUHL-323,Mus 20th & 21st CentuRies,MUS,Music,2,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,R,,R,,R,R
+MUHL-465,Topics In Music,MUS,Music,1,UG,LEC,R,,,R,R,R,R,,R,R,,R,R,R,R,R,R,R,R,R,R,,R,,M,,M,M
+MUHL-485,Music SeminaR,MUS,Music,2,UG,LEC,R,R,R,R,R,,,,,,,,,,,,,,,,,,,,,,,
+MUHL-489,SenioR PRoject,MUS,Music,2,UG,LEC,R,R,M,M,M,M,M,M,M,M,,M,M,M,M,M,M,M,M,M,M,M,M,,M,M,M,M
+MUPF-103,Class Piano 1,MUS,Music,1,UG,LEC,,,R,,R,R,R,,,,,,,,,,R,R,R,R,,,,,R,,R,R
+MUPF-104,Class Piano 2,MUS,Music,1,UG,LEC,,,R,,R,R,R,,,,,,,,,,R,R,R,R,,,,,R,,R,R
+MUPF-108,GRoup InstRuction,MUS,Music,1,UG,PLES,,,R,,R,R,R,,,,,,,,,,R,R,R,R,,,,,,,,
+MUPF-118,I CantoRi,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-119,Bel Canto,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-128,Wind Symphony,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-129,Applied Music,MUS,Music,1,UG,PLES,,I,R,,R,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,,,R,,R,R,R,R
+MUPF-138,Symphony ORchestRa,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-158,Die MeisteRsingeR Male ChoRus,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-178,InstRumental Ensemble ExpeR,MUS,Music,1,UG,PLES,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-188,Vocal Ensemble ExpeRience,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-189,ConcentRation,MUS,Music,1,UG,PLES,,I,M,R,R,R,R,,R,R,,R,R,R,R,R,R,R,R,R,,,R,,R,R,R,R
+MUPF-225,SingeRs Diction I,MUS,Music,2,UG,LEC,R,,R,,R,R,R,,R,R,,R,,,,,R,R,R,R,R,R,R,,R,R,R,R
+MUPF-226,SingeRs Diction I,MUS,Music,2,UG,LEC,R,,R,,R,R,R,,R,R,,R,,,,,R,R,R,R,R,R,R,,R,R,R,R
+MUPF-273,Basic Conducting,MUS,Music,1,UG,LEC,,,R,,R,R,R,,R,R,R,R,,R,R,R,R,R,R,R,R,R,R,,R,R,R,R
+MUPF-279,SeRvice Playing,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-289,Accompanying,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-318,I CantoRi,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-319,Bel Canto,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-328,Wind Symphony,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-329,Applied Music,MUS,Music,1,UG,PLES,,R,R,,R,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,,,R,,R,R,R,R
+MUPF-334,ChambeR Music,MUS,Music,1,UG,LEC,,R,M,,R,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-338,Symphony ORchestRa,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-344,InstRumental Lit,MUS,Music,2,UG,LEC,R,,,,R,R,R,,R,R,,R,,,,,R,R,R,R,R,R,R,,M,,M,M
+MUPF-358,Die MeisteRsingeR Male ChoRus,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-373,ChoRal Conducting,MUS,Music,2,UG,LEC,R,R,R,,R,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-374,InstRumental Conducting,MUS,Music,2,UG,LEC,R,R,R,,R,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-378,InstRumental Ensemble ExpeR,MUS,Music,1,UG,LEC,,,M,,M,,,,,,,,,,,,,,,,,,,,,,,
+MUPF-388,Vocal Ensemble ExpeRience,MUS,Music,1,UG,LEC,,,M,,M,M,,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+MUPF-389,ConcentRation,MUS,Music,1,UG,PLES,,R,M,R,R,R,R,,R,R,,R,R,R,R,R,R,R,R,R,,,R,,R,R,R,R
+MUPF-389L,Voice Lab,MUS,Music,0,UG,LEC,,R,M,R,R,R,R,,R,R,,R,R,R,R,R,R,R,R,R,,,R,,R,R,R,R
+MUPF-489,SenioR Recital,MUS,Music,2,UG,LEC,M,M,M,M,M,M,M,M,M,M,,M,M,M,M,M,M,M,M,M,M,M,M,,,,,
+ENGR-121,IntRo to EngineeRing,PHYS,Physics,1,UG,LEC,,,I,,R,I,,,,,,,,,I,I,,I,,,,,,,,,,
+ENGR-149,IntRo Mech DRw & CADD,PHYS,Physics,3,UG,LEC,I,,I,,R,R,R,,,,,,,,I,I,,R,R,R,,I,I,,,,,
+ENGR-211,EngR Mech: Statics,PHYS,Physics,3,UG,LEC,R,R,,R,R,R,,,,,,,,,,,M,,M,M,,,,,,,,
+ENGR-212,EngR Mech:Dynamics,PHYS,Physics,3,UG,LEC,R,R,,R,R,R,,,,,,,,,,,M,,M,M,,,,,,,,
+ENGR-228,LineaR CiRcuit Analysis,PHYS,Physics,3,UG,LEC,R,R,,R,R,R,,,,,,,,,,,M,,M,M,,,,,,,,
+ERSC-105,EaRth Science,PHYS,Physics,3,UG,LEC,I,I,,I,I,I,,,,,,,,,,,,I,,,,,I,,,,I,I
+PHYS-137,Conceptual Physics,PHYS,Physics,3,UG,LEC,I,I,I,I,I,I,,,I,,,,I,,,I,I,I,I,I,I,I,I,I,,,,
+PHYS-155,DescRiptive AstRonomy,PHYS,Physics,3,UG,LEC,I,,,I,I,I,,,,,,,,,,,,,,,,,,,,,,
+PHYS-211,Gen Physics I,PHYS,Physics,3,UG,LEC,,,,I,R,R,,,I,,,I,,,,,I,I,I,I,,,,,,,,I
+PHYS-212,Gen Physics I,PHYS,Physics,3,UG,LEC,,,,I,R,R,,,R,,,R,,,,,R,R,R,R,,,,,,,,R
+PHYS-213,Gen Phys Lab I,PHYS,Physics,1,UG,LAB,R,R,I,R,R,R,R,R,R,R,I,R,R,,R,R,R,R,R,R,,,,,,,,
+PHYS-214,Gen Phys Lab I,PHYS,Physics,1,UG,LAB,R,R,I,R,R,R,R,R,R,R,I,R,R,,R,R,R,R,R,R,,,,,,,,
+PHYS-215,Gen Physics Calc Appl I,PHYS,Physics,1,UG,LEC,,,,,R,R,,,,,,,,,,,R,,R,R,,,,,,,,I
+PHYS-216,Gen Phys Calc Appl I,PHYS,Physics,1,UG,LEC,,,,,R,R,,,,,,,,,,,R,,R,R,,,,,,,,I
+PHYS-221,Univ Physics I,PHYS,Physics,4,UG,LEC,,,,,R,R,,,,,,,,,,,R,,R,R,,,,,,,,I
+PHYS-222,Univ Physics I,PHYS,Physics,4,UG,LEC,,,I,,R,R,,,,,,,,,,,R,,R,R,,,,,,,,I
+PHYS-223,Univ Physics Lab I,PHYS,Physics,1,UG,LAB,R,R,I,R,R,R,R,R,R,R,I,R,R,,R,R,R,R,R,R,,,,,,,,
+PHYS-224,Univ Phys Lab I,PHYS,Physics,1,UG,LAB,R,R,I,R,R,R,R,R,R,R,I,R,R,,R,R,R,R,R,R,,,,,,,,
+PHYS-255,TutoRing Physics,PHYS,Physics,1,UG,LEC,I,I,R,,R,R,,,,,I,,R,R,R,R,M,,M,M,,,,,I,I,I,I
+PHYS-265,Topics in Physics,PHYS,Physics,1,UG,LEC,,M,,,,,,,,,,,,,,,,,,,,,,,,,,
+PHYS-297,UndeRgRaduate ReseaRch,PHYS,Physics,1,UG,LEC,R,R,R,R,R,R,R,,R,,,R,,,,,R,R,R,R,R,R,R,R,,,R,R
+PHYS-305,Biophysics,PHYS,Physics,3,UG,LEC,R,R,,R,R,R,,,,,,,,,,,R,R,R,R,,,,,,,,R
+PHYS-310,ModeRn Physics,PHYS,Physics,3,UG,LEC,R,R,,R,R,R,,,,,,,,,,,R,,M,M,,,,,,,,R
+PHYS-313,Physical Optics,PHYS,Physics,3,UG,LEC,,,,,,,,,,,,,,,,,I,R,M,M,,,,,,,,
+PHYS-316,PaRtial DiffeRential Equations (*See MATH-316),PHYS,Physics,3,UG,LEC,,,,,,,,,,,,,,,,,,,M,M,,,,,,,,
+PHYS-317,Iss Phys Sci & Rlgn,PHYS,Physics,3,UG,LEC,I,I,I,I,R,R,R,,I,,,,I,R,R,R,,,R,R,,,I,,,,,R
+PHYS-320,Iss Phys Sci & Rlgn,PHYS,Physics,3,UG,LEC,R,R,I,R,R,R,R,,I,,,,I,R,R,R,,,R,R,,,I,,,,,R
+PHYS-325,Adv Physics Lab I,PHYS,Physics,1,UG,LAB,,,,,,,,R,R,R,R,R,R,I,R,R,R,R,M,M,I,I,I,I,I,,I,I
+PHYS-326,Advanced Physics LaboRatoRy I,PHYS,Physics,1,UG,LAB,,,,,,,,R,R,R,R,R,R,I,R,R,R,R,M,M,I,I,I,I,I,,I,I
+PHYS-400,Physics PoRtfolio,PHYS,Physics,1,UG,LEC,R,R,,,R,R,R,,,,,,,,,,I,I,M,M,,,,,,,I,I
+PHYS-411,Stat & TheRmal Physics,PHYS,Physics,3,UG,LEC,R,R,,R,R,R,,,,,,,,,,,M,,M,M,,,,,,,,
+PHYS-412,Quantum Mechanics,PHYS,Physics,3,UG,LEC,,,,,R,R,,,,,,,,,,,M,,M,M,,,,,,,,
+PHYS-413,Analytic Mechanics,PHYS,Physics,3,UG,LEC,,,,,,,,,,,,,,,,,M,M,M,M,,,,,,,,
+PHYS-414,ElectRodynamics I,PHYS,Physics,3,UG,LEC,,,,,R,R,,,,,,,,,,,M,,M,M,,,,,,,,
+PHYS-415,ElectRodynamics I,PHYS,Physics,3,UG,LEC,,,,,R,R,,,,,,,,,,,M,,M,M,,,,,,,,R
+PHYS-418,Adv Quantum Mech I,PHYS,Physics,3,UG,LEC,,,,,R,R,,,,,,,,,,,M,,M,M,,,,,,,,R
+PHYS-465,Topics,PHYS,Physics,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,R,R,I,,,,,
+PHYS-480,Sci WRtg & PResentation,PHYS,Physics,1,UG,LEC,M,M,R,M,M,M,I,,,,,,,,I,I,,,I,I,R,R,I,R,,,I,I
+PHYS-497,UndeRgRad ReseaRch,PHYS,Physics,1,UG,RSCH,R,R,I,,R,R,I,,R,R,,R,,,,I,R,R,R,R,I,I,I,I,,,I,I
+PSYC-100,CaReeRs in Psychology,PSYC,Psychology,3,UG,LEC,I,I,I,I,R,R,R,I,I,I,I,I,I,I,I,I,I,,,R,,,,,I,I,I,I
+PSYC-101,Psy PeRsonal & Soc Adjust,PSYC,Psychology,3,UG,LEC,I,I,I,I,R,R,R,I,I,I,I,I,I,I,I,I,I,,I,R,,,I,I,I,I,I,I
+PSYC-122,Gen Psychology,PSYC,Psychology,3,UG,LEC,I,I,I,I,R,R,R,I,I,I,I,,I,I,I,I,I,I,I,I,,,,,I,I,I,I
+PSYC-128,Developmental Psyc,PSYC,Psychology,3,UG,LEC,I,I,I,I,R,R,R,I,I,I,I,I,I,I,I,I,I,I,I,I,,,,,I,I,I,I
+PSYC-128T,Developmental Psyc,PSYC,Psychology,3,UG,LEC,I,I,R,I,R,R,R,I,,,,,I,I,I,I,I,,,I,,,,,I,I,I,I
+PSYC-201,PaRenting,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-221,Chal CRs Facil/TheRap Rec,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-223,MaRRiage and Family,PSYC,Psychology,3,UG,LEC,R,R,M,R,R,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,,R,R,R,R,R,M,M
+PSYC-224,Social Psychology,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-226,Psychology of Religion,PSYC,Psychology,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,,R,R,R,R,R,R,M
+PSYC-227,Cognitive Psyc,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-231,MulticultuRal Relations,PSYC,Psychology,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,,,,,R,M,M,M
+PSYC-233,Human Sexuality,PSYC,Psychology,3,UG,LEC,R,R,M,R,R,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,,R,R,R,R,R,M,M
+PSYC-234,H:Social Psychology,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-250,Death and Dying,PSYC,Psychology,3,UG,LEC,R,R,R,R,R,R,R,R,I,I,,R,R,R,R,R,R,R,,,,,R,R,R,R,R,R
+PSYC-253,IndustRial/ORg Psych,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-297,RsRch Design & Stats I,PSYC,Psychology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-297L,RsRch Des & Stat I Lab,PSYC,Psychology,3,UG,LEC,R,M,M,M,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,,,R,R,R,R,R,R
+PSYC-315,AbnoRmal Psyc,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-326,Biol Basis foR BehavioR,PSYC,Psychology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-326L,Physiological Psyc Lab,PSYC,Psychology,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-336,Lang Acquisition & Dev,PSYC,Psychology,3,UG,LEC,M,R,M,M,R,M,M,,,,R,R,R,R,R,R,R,R,,R,,,,,R,R,R,M
+PSYC-346,PeRsonality TheoRies,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-357,Psychological Testing,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-377,Fund of Counseling,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-384,ExpeRimental Psyc,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-390,Health Psychology,PSYC,Psychology,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-405,Sex Abuse AwaRe & PRev,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-416,Hist & Syst of Psyc,PSYC,Psychology,3,UG,LEC,M,M,M,M,R,R,M,,,M,,,M,M,M,M,M,R,R,R,,,,R,M,M,M,M
+PSYC-422,Issues in Adolescence,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-426,Issues in Psyc & Rlgn,PSYC,Psychology,3,UG,LEC,M,R,M,M,M,M,M,M,R,R,R,,M,M,M,M,R,R,R,M,,,,M,M,M,M,M
+PSYC-455,Psyc EmeRging Adulthood,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-460,GRoup PRocesses,PSYC,Psychology,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-465,Topics in Psychology,PSYC,Psychology,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-479,Family Counseling,PSYC,Psychology,1,UG,LEC,M,R,,M,R,M,M,,,,,,,,,,,R,,R,,,,,R,R,R,
+PSYC-490,Psychology SeminaR,PSYC,Psychology,0,UG,PRAC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-491,Psyc PRacticum,PSYC,Psychology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-497L,RsRch Des&Stat I Lab,PSYC,Psychology,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-498,RsRch Design & Stat I,PSYC,Psychology,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PSYC-498L,RsRch Des & Stat I Lab,PSYC,Psychology,0,UG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PTAS-100,PT PeRspectives,PTAP,Physical Therapist Ast Program,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,,,I,I,I,I,I,I,I,I
+PTAS-105,Kinesiology,PTAP,Physical Therapist Ast Program,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+PTAS-115,Fund of PT PRactice,PTAP,Physical Therapist Ast Program,4,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+PTAS-201,ObseRvation & MeasuRement,PTAP,Physical Therapist Ast Program,2,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PTAS-205,TheRapeutic Modalities,PTAP,Physical Therapist Ast Program,4,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+PTAS-209,ORthopedic Rehab,PTAP,Physical Therapist Ast Program,2,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PTAS-212,Clinical Pathology,PTAP,Physical Therapist Ast Program,2,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+PTAS-215,NeuRomusculaR Rehab,PTAP,Physical Therapist Ast Program,4,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PTAS-218,Rehabilitation,PTAP,Physical Therapist Ast Program,3,UG,LEC,M,M,M,M,M,M,M,,,,,,R,R,R,R,R,R,R,R,M,M,M,M,R,R,R,R
+PTAS-220,TheRapeutic ExeRcise With Lab,PTAP,Physical Therapist Ast Program,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PTAS-225,Capstone SeminaR,PTAP,Physical Therapist Ast Program,1,UG,LEC,M,M,M,M,M,M,M,M,M,M,,M,M,,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+PTAS-235,Clinical Affiliation I,PTAP,Physical Therapist Ast Program,4,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R
+PTAS-245,Clinical Affiliation I,PTAP,Physical Therapist Ast Program,6,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+PTAS-255,Clinical Affiliation II,PTAP,Physical Therapist Ast Program,6,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+RELB-125,Life & Tchgs of Jesus,REL,Religion,3,UG,LEC,I,I,,I,I,I,I,,,,,,,,,,,,,,I,,I,,,,,
+RELB-125T,Life & Tchgs of Jesus,REL,Religion,3,UG,LEC,I,I,,I,I,I,I,,,,,,,,,,,,,,I,,I,,,,,
+RELB-175,Acts of the Apostles,REL,Religion,3,UG,LEC,,,,,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELB-175T,Acts of the Apostles,REL,Religion,3,UG,LEC,,,,,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELB-225,PRophetic Studies,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,R,R,,,,
+RELB-237,ARchaeology & OT,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,R,R,,,,
+RELB-245,OT Studies I,REL,Religion,3,UG,LEC,I,,,,,I,I,,,,,,,,,,,,,,,,,,,,,
+RELB-246,OT Studies I,REL,Religion,3,UG,LEC,I,,,,,I,I,,,,,,,,,,,,,,,,,,,,,
+RELB-247,ARchaeology & NT,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,R,R,,,,
+RELB-255,ARchaeological FieldwoRk,REL,Religion,1,UG,LEC,,,,,R,R,R,R,R,R,,R,R,R,R,R,I,I,I,I,I,I,,,I,I,I,I
+RELB-260,Sexuality & ScRiptuRe,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,,,I,I,I,I
+RELB-265,Topics in Biblical Studies (Not cuRRently taught),REL,Religion,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELB-268,SeRmon on the Mount (not cuRRently taught),REL,Religion,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELB-270,Epistle to the Romans,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,,,,,,
+RELB-325,PRophetic Studies,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,,,,,,
+RELB-340,Middle East Study TouR,REL,Religion,1,UG,LEC,,,,,R,,R,,,,,,R,R,R,R,,,,,,,,,,,,
+RELB-425,Studies in Daniel,REL,Religion,3,UG,LEC,M,M,,M,R,R,R,,R,,,,,,,,,,,,,,M,,,,,
+RELB-426,Studies in Revelation,REL,Religion,3,UG,LEC,,,,R,R,R,R,,,,,,,,,,,,,,,,,,,,,
+RELB-426T,Studies in Revelation,REL,Religion,3,UG,LEC,,,,R,R,R,R,,,,,,,,,,,,,,,,,,,,,
+RELB-435,NT Studies I,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,,,,,R,,R,,,,,,,,R,,,,,
+RELB-436,NT Studies I,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,,,,,R,,R,,,,,,,,R,,,,,
+RELB-455,ARchaeological FieldwoRk,REL,Religion,3,UG,LEC,,,,,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,R,,,,,R,R,R,
+RELB-465,Topics in Biblical Studies (Not cuRRently taught),REL,Religion,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELB-477,"Exodus,Egypt WaR & ARch",REL,Religion,3,UG,LEC,M,M,R,R,R,R,R,,R,,,,,,,,,,,,R,,R,R,,,,
+RELB-479,Bibl Image ARch NeaR East,REL,Religion,3,UG,LEC,M,M,R,R,R,R,R,,R,,,,,,,,,,,,R,,R,R,,,,
+RELB-481,"David, Solomon & ARcheology",REL,Religion,3,UG,LEC,M,M,R,R,R,R,R,,R,,,,,,,,,,,,R,,R,R,,,,
+RELB-483,"Sanct, Temple & ARch Rlgn",REL,Religion,3,UG,LEC,M,M,R,R,R,R,R,,R,,,,,,,,,,,,,,R,R,,,,
+RELB-497,ARchaeol Meth & TheoRy,REL,Religion,3,UG,LEC,,,,,,R,R,,,,,,,,,,,,,,,,,,,,,
+RELB-548,Jesus As HealeR,REL,Religion,3,GR,LEC,R,R,,R,R,R,R,,,,,,,,,,,,,,,,,,,,,
+RELL-181,Biblical HebRew I,REL,Religion,3,UG,LEC,,,,,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELL-181L,Bibl HebRew I Lab,REL,Religion,0,UG,LAB,,,,,,,,,,,,,I,,,,,,,,,,,,,,,
+RELL-182,Biblical HebRew I,REL,Religion,3,UG,LEC,,,,,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELL-182L,Bibl HebRew I Lab,REL,Religion,0,UG,LAB,,,,,,,,,,,,,I,,,,,,,,,,,,,,,
+RELL-191,NT GReek I,REL,Religion,3,UG,LEC,,,,,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELL-191L,NT GReek I Lab,REL,Religion,0,UG,LAB,,,,,,,,,,,,,I,,,,,,,,,,,,,,,
+RELL-192,NT GReek I,REL,Religion,3,UG,LEC,,,,,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELL-192L,NT GReek I Lab,REL,Religion,0,UG,LAB,,,,,,,,,,,,,I,,,,,,,,,,,,,,,
+RELL-221,IntRo Biblical Exegesis,REL,Religion,2,UG,LEC,R,,,R,R,R,R,,,,,,,,,,R,,R,,,,,,,,,
+RELL-330,InteRmediate HebRew,REL,Religion,3,UG,LEC,R,,,R,R,R,R,,,,,,,,,,R,,R,,,,,,,,,
+RELL-331,InteRmediate GReek,REL,Religion,3,UG,LEC,,,,,R,R,R,,,,,,,,,,R,,R,,,,,,,,,
+RELL-465,Topics in Biblical Languages (not cuRRently taught),REL,Religion,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELP-150,IntRo to MinistRy,REL,Religion,2,UG,LEC,,,,I,I,I,I,,,,,,I,,,I,,,,,,,,,,,,
+RELP-207,Mission PRacticum (not cuRRently taught),REL,Religion,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELP-240,WoRld Missions,REL,Religion,3,UG,LEC,R,R,R,R,R,R,R,,,,,,R,R,R,R,,,,,R,,R,R,,,,
+RELP-251,IntRo to Youth MinistRy,REL,Religion,3,UG,LEC,R,R,R,R,R,R,R,R,,,,,,,,,,,,,,,R,R,R,,,
+RELP-252,InteRm Youth MinistRy,REL,Religion,3,UG,LEC,R,R,R,R,R,R,R,R,,,,,,,,,,,,,,,R,R,R,,,
+RELP-257,Museum Education,REL,Religion,1,UG,LEC,,,,,R,,,,,,,,,,,,,,,,,,,,,,,
+RELP-264,ChRistian Witnessing,REL,Religion,3,UG,LEC,,,,,R,,,R,,,R,R,,,,,,,,,,,,,R,,,
+RELP-265,Topics (not cuRRently taught),REL,Religion,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELP-266,Evangelism SeminaR (not cuRRently taught),REL,Religion,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELP-267,IntRo to ChRistian LeadeRship,REL,Religion,2,UG,LEC,I,I,,I,I,I,I,I,,I,,I,,,,,,,,,,,,,,,,
+RELP-291,PRacticum,REL,Religion,1,UG,PRAC,,,,,,,,,,,,,,,,,,,,,,,,,R,,,
+RELP-321,IntRo Biblical PRchg,REL,Religion,2,UG,LEC,R,R,R,R,R,R,R,R,,,R,,,,,,,,,,,,R,R,R,,,
+RELP-322,InteR Biblical PReach,REL,Religion,2,UG,LEC,M,M,M,M,M,M,M,M,,,M,,,,,,,,,,,,M,M,M,,,
+RELP-338,Missions and Health (taught by the School of NuRsing--see theiR listing),REL,Religion,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELP-340,WoRld Missions,REL,Religion,3,UG,LEC,R,R,R,R,R,R,R,,,,,,R,R,R,R,,,,,R,,R,R,,,,
+RELP-354,IntRo Bibl Coun & Conf Resol,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,R,,R,,,,,,R,,R,R,,,R,,R,R,R,R
+RELP-363,PeRsonal Evangelism,REL,Religion,3,UG,LEC,,,,,R,R,R,R,,,R,R,,,,,,,,,,,,,,,,
+RELP-370,InteRpeRsonal MinistRy,REL,Religion,2,UG,LEC,R,,,R,R,R,R,R,,,R,,,,,,,,,,,,,,R,R,R,R
+RELP-391,PRacticum,REL,Religion,1,UG,PRAC,,,,,R,R,,R,,,,,,,,,,,,,,,,,,,,
+RELP-401,Fundam of Biblical PReaching (this class is not being taught cuRRently),REL,Religion,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELP-405,Evangelistic PReaching,REL,Religion,1,UG,LEC,,M,M,M,M,M,M,M,,,M,,,,,,,,,,,,,,,,,
+RELP-423,Adv Biblical PReaching (this class is not cuRRently being offeRed),REL,Religion,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELP-435,Levantine CeRamic Typol,REL,Religion,1,UG,LEC,M,M,,M,M,M,M,,M,,,,,,,,,,,,M,M,M,M,,,,
+RELP-450,ChuRch MinistRy I,REL,Religion,3,UG,LEC,M,M,,M,M,M,M,M,,M,M,M,M,,,,,,,,,,,,,,,
+RELP-452,ChuRch MinistRy I,REL,Religion,3,UG,LEC,M,M,,M,M,M,M,M,,M,M,M,M,,,,,,,,,,,,,,,
+RELP-465,Topics in PRof TRaining (this class is not cuRRently being taught),REL,Religion,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELP-466,Public Evangelism,REL,Religion,3,UG,LEC,,M,M,M,M,M,M,M,,,M,,,,M,M,,,,,,,,,,,,
+RELP-467,Health Evangelism (this class is not cuRRently being taught),REL,Religion,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-138,Adventist HeRitage,REL,Religion,3,UG,LEC,I,I,,I,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELT-138T,Adventist HeRitage,REL,Religion,3,UG,LEC,I,I,,I,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELT-139,Adventist HeRitage TouR (this class is not cuRRently being taught),REL,Religion,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-177,ChRistian SpiRituality,REL,Religion,3,UG,LEC,I,,,I,I,I,I,,,,,,,,,,,,,,,,,,,,,
+RELT-201,Bibl PRin Daily Living (this class is not cuRRently being taught),REL,Religion,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-225,Last Day Events (this class is not cuRRently being taught),REL,Religion,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-255,ChRistian Beliefs,REL,Religion,3,UG,LEC,I,I,,I,I,I,I,,,,,,,,,,,,,,,,I,I,,,,I
+RELT-255T,ChRistian Beliefs,REL,Religion,3,UG,LEC,I,I,,I,I,I,I,,,,,,,,,,,,,,,,I,I,,,,I
+RELT-264,Topics in Theological Studies (this class is not cuRRently being taught),REL,Religion,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-317,Iss Phys Sci & Rlgn (this class is taught out of the Phycis Dept.--see theiR listing),REL,Religion,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-320,Iss Phys Sci & Rlgn (this class is taught out of the Phycis Dept.--see theiR listing),REL,Religion,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-358,WoRld Religions,REL,Religion,3,UG,LEC,M,M,M,M,M,M,M,,,,,,M,,M,M,,,,,M,M,M,M,M,,,M
+RELT-373,ChRistian Ethics,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,R,,R,,,,,,,,,,,,,,,,,
+RELT-373T,ChRistian Ethics,REL,Religion,3,UG,LEC,R,R,,R,R,R,R,,R,,R,,,,,,,,,,,,,,,,,
+RELT-421,Issues Sci & Soci (this class is taught by the Biology Dept.--see theiR listing),REL,Religion,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-439,PRophetic Min EGW,REL,Religion,2,UG,LEC,M,M,M,M,M,M,M,,M,,,,,,,,M,M,,,M,,,M,,,,
+RELT-458,WoRld Religions,REL,Religion,3,UG,LEC,M,M,M,M,M,M,M,,,,,,M,,M,M,,,,,M,M,M,M,M,,,M
+RELT-465,Topics in Theological Studies (this class is not cuRRently being taught),REL,Religion,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RELT-467,ChRistian Phil & WoRldviews,REL,Religion,3,UG,LEC,M,M,M,M,M,M,M,,,,,,M,,M,M,,,,,M,,M,M,,,,M
+RELT-484,ChRistian Theology I,REL,Religion,3,UG,LEC,M,M,,M,M,M,M,,,,,,,,,,,,,,M,,M,M,,,M,M
+RELT-485,ChRistian Theol I,REL,Religion,3,UG,LEC,M,M,M,M,M,M,M,,,,,,M,,M,M,,,,,M,,M,M,,,M,M
+BRDC-127,IntRo to Digital StoRytelling,JOUR,Journalism And Communication,3,UG,LEC,I,I,R,I,R,I,R,I,I,,I,I,I,I,I,I,,,,,,,I,R,I,I,I,I
+BRDC-201,IntRo to Digital Media,JOUR,Journalism And Communication,3,UG,LEC,,R,R,R,R,R,R,R,R,R,R,R,I,I,R,R,,,,,I,I,I,R,R,R,R,R
+BRDC-202,Digital Audio PRod,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,I,R,R,R,R,R,I,I,,,,,,,,,,,,,,,,
+BRDC-225,Studio & Event PRod,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,R,R,R,R,R,R
+BRDC-245,SenioR PRoject,JOUR,Journalism And Communication,1,UG,RSCH,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M,M,M,M,M
+BRDC-265,Topics in BRoadcasting,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BRDC-291,PRacticum,JOUR,Journalism And Communication,1,UG,PRAC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,R,R,R
+BRDC-314,BRoadcast News WRiting,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,R,M,M,M,R,R,R,,,,,,,,,,,,,,,,,,
+BRDC-315,ScRiptwRiting,JOUR,Journalism And Communication,3,UG,LEC,M,R,,,,,,,,,,,,,,,,,,,,,,,,,,
+BRDC-327,Adv Digital StoRytelling,JOUR,Journalism And Communication,3,UG,LEC,,R,R,M,M,M,M,R,R,M,R,R,R,R,R,R,R,R,R,R,,,R,R,R,R,M,M
+BRDC-391,PRacticum,JOUR,Journalism And Communication,1,UG,PRAC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,R,R,R
+BRDC-417,Media Mgmt & MinistRy,JOUR,Journalism And Communication,3,UG,LEC,M,R,R,M,M,M,R,M,M,R,R,M,R,R,R,R,R,M,M,M,R,R,M,M,R,M,M,M
+BRDC-442,Television & News PRod,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M,M,M,M,M
+BRDC-445,SenioR PRoject,JOUR,Journalism And Communication,1,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M,M,M,M,M
+BRDC-465,Topics in BRoadcasting,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BRDC-493,BRoadcast/Media PRod InteRn,JOUR,Journalism And Communication,1,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M,M,M,M,M
+COMM-103,IntRo to Mass Communication,JOUR,Journalism And Communication,3,UG,LEC,I,,,I,I,I,I,,,,,,,,,,,,,,I,,I,,,,,
+COMM-135,Comm & Public Speaking,JOUR,Journalism And Communication,3,UG,LEC,I,I,I,I,I,R,I,I,,,,,I,I,I,I,,I,,,,I,I,I,I,,,I
+COMM-145,H:Comm & Public Speaking,JOUR,Journalism And Communication,3,UG,LEC,I,I,I,I,I,R,I,I,,,,,I,I,I,I,,I,,,,I,I,I,I,,,I
+COMM-200,ChRistian SeRv JouR/Comm,JOUR,Journalism And Communication,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COMM-210,Comm Conv/Study TouR,JOUR,Journalism And Communication,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COMM-230,IntRo to Acting,JOUR,Journalism And Communication,3,UG,LEC,,I,R,R,,,,R,,,I,I,I,I,I,I,,R,R,R,,,,,R,R,R,R
+COMM-240,Communication TheoRy,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,,,R,R,I,,,,,,R,R,R,R,,,I,R,R,I,I,I
+COMM-242,IntRo to Web Design,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,,,,R,,,,,,,,,,R,R,R,,,,,,,R,R
+COMM-265,Topics,JOUR,Journalism And Communication,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COMM-291,Communication PRacticum,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COMM-300,ChRistian SeRv JouR/Comm,JOUR,Journalism And Communication,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COMM-312,PRofessional Comm/LdRshp,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,M,M,R,R,M,M,M,R,M,M,R,R,R,M,M,M,M,,,R,M,M,R,R,R
+COMM-326,Film Evaluation,JOUR,Journalism And Communication,3,UG,LEC,M,R,,M,R,R,,,M,,,,,,,,,M,,,,,M,M,R,,,R
+COMM-330,InteRcultuRal Comm,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,,I,R,R,M,R,,,,,R,R,I,I,,,R,,R,R,R,R
+COMM-331,InteRcultuRal Comm,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,,I,R,R,M,R,,,,,R,R,I,I,,,R,,R,R,R,R
+COMM-336,InteRpeRsonal Comm,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,M,R,R,,M,R,R,M,,,,,,,,,,,,M,M,M,M,R,M
+COMM-340,GRp Dynam & LdRshp,JOUR,Journalism And Communication,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COMM-391,Communication PRacticum,JOUR,Journalism And Communication,1,UG,PRAC,R,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,R,R,R,R,R,R
+COMM-397,Communication RsRch,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,I,I,R,R,R,,,R
+COMM-406,PeRsuasion & PRopaganda,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,M,R,R,,,,,,,,,,,,,,,,,,M,M,R,R,R
+COMM-415,PoRtfolio & CaReeR,JOUR,Journalism And Communication,1,UG,LEC,M,M,M,M,M,M,M,M,R,R,R,M,,,,,,,,,,,,,,,,
+COMM-420,PRof & Tech WRiting,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,,R,R,R,,R,R,R,R,,R,R
+COMM-427,Mass Media Law & Ethics,JOUR,Journalism And Communication,3,UG,LEC,,,,,,,,,,,,,,,,,M,M,M,M,,M,M,M,M,M,M,M
+COMM-465,Topics,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+COMM-488,Mass Comm & Society,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,,M,M,M,M,M,M,M,M,M,,,M,M,M,,M,M
+COMM-492,Communication InteRnship,JOUR,Journalism And Communication,1,UG,LEC,M,M,M,M,M,M,M,M,M,M,,M,M,M,M,M,M,M,M,M,,,M,M,M,,M,M
+COMM-ALD,Media & Communication,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CRTF-LD,Communications - LoweR Div,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-105,WRiting foR Media,JOUR,Journalism And Communication,3,UG,LEC,I,I,I,I,I,I,I,,,,,,I,,,I,I,I,I,I,,,I,I,I,,I,I
+JOUR-175,Communication WoRkshop,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-205,News RepoRting,JOUR,Journalism And Communication,3,UG,LEC,R,R,I,R,R,R,R,I,I,I,I,I,R,I,I,R,R,R,R,R,I,I,I,R,R,I,R,R
+JOUR-245,SenioR PRoject,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-265,Topics In Communication,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-291,PRacticum,JOUR,Journalism And Communication,1,UG,PRAC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R,
+JOUR-313,Publication Editing,JOUR,Journalism And Communication,3,UG,LEC,R,R,,R,R,R,R,R,R,R,,,,,,,R,R,R,R,,,,,R,R,R,R
+JOUR-316,Mag & FeatuRe ARt WRtg,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,R,M,M,M,,R,R,R,R,R,M,M
+JOUR-342,InteRactive JouRnalism,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,M,R,M,R,R,R,R,R,R,R,,R,R,R,M,M,M,R,M,M,M,M,R,M,M
+JOUR-356,Investigative RepoRting,JOUR,Journalism And Communication,3,UG,LEC,M,M,R,M,M,M,R,R,R,R,R,R,R,,,,M,M,R,M,R,R,M,M,M,R,M,M
+JOUR-372,JouRnalism InteRnship,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-391,PRacticum,JOUR,Journalism And Communication,1,UG,PRAC,R,R,R,R,R,R,R,R,,,R,R,R,R,R,R,R,R,R,R,,R,M,R,R,R,R,R
+JOUR-392,JouRnalism InteRnship,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-416,LiteRaRy JouRnalism,JOUR,Journalism And Communication,3,UG,LEC,M,R,R,M,R,M,R,,R,,R,R,R,,,,R,M,M,M,,R,R,R,R,R,M,M
+JOUR-445,SenioR PRoject,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-465,Topics in Communications,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-475,Communication WoRkshop,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-LD,JouRnalism - LoweR Division,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOUR-UD,JouRnalism - UppeR Division,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NPLD-GR,Non-PRofit Adm & Dev GRaduate,JOUR,Journalism And Communication,1,GR,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PHTO-125,IntRo to PhotogRaphy,JOUR,Journalism And Communication,3,UG,LEC,I,I,I,I,I,R,I,I,I,I,I,I,I,I,I,I,,,,,,,I,I,I,I,I,I
+PHTO-265,Topics in PhotogRaphy,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PHTO-275,Applied PhotojouRnalism,JOUR,Journalism And Communication,1,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,,,,R,R,R,R,R,R
+PHTO-291,PRacticum,JOUR,Journalism And Communication,1,UG,LEC,R,R,R,R,,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,,,
+PHTO-295,DiRected Study,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PHTO-315,PhotojouRnalism,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,R,M,M,M,M,M,M,M,M,M,M,M,M,,,,,,,R,M,R,R,R,R
+PHTO-320,Digital PhotogRaphy,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,,,,,,R,R,R,R,R,R
+PHTO-391,PRacticum,JOUR,Journalism And Communication,1,UG,PRAC,R,R,R,R,R,R,R,R,R,R,R,R,M,M,M,M,,,,,R,R,R,R,R,,M,M
+PHTO-447,SenioR PoRtfolio,JOUR,Journalism And Communication,1,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,,M,M,M,M,M,M,M
+PHTO-465,Topics in PhotogRaphy,JOUR,Journalism And Communication,1,UG,LEC,M,R,,R,,,,,,,,,,,,,,,,,,,,,,,,
+PHTO-492,PhotogRaphy InteRnship,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,M,M,R,R,R,R,R,R,R,M,M,M,M,,,,,R,R,R,M,R,,,
+PHTO-495,DiRected Study,JOUR,Journalism And Communication,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PREL-235,Public Rel PRin & TheoRy,JOUR,Journalism And Communication,3,UG,LEC,I,I,R,R,R,R,I,I,I,I,I,I,I,I,I,I,,,,,I,R,R,I,R,,,
+PREL-246,Fund of AdveRtising,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,,,
+PREL-265,Topics in Public Relations,JOUR,Journalism And Communication,1,UG,LEC,M,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,,,
+PREL-291,PRacticum,JOUR,Journalism And Communication,1,UG,PRAC,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,,,
+PREL-310,Social Media StRategies,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,R,M,M,M,M,M,M,M,M,M,M,M,M,,,,,R,R,R,M,R,,,
+PREL-355,AdveRtising CopywRiting,JOUR,Journalism And Communication,3,UG,LEC,M,M,R,R,R,R,R,M,M,M,M,M,M,M,M,M,,,,,R,R,R,R,R,,,
+PREL-368,FundRaising foR NonpRofits,JOUR,Journalism And Communication,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,,,
+PREL-391,PRacticum,JOUR,Journalism And Communication,1,UG,PRAC,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,,,
+PREL-455,Public Rel StRategy & Mgmt,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,R,M,M,M,M,M,M,M,M,M,M,M,M,,,,,R,R,R,M,R,,,
+PREL-465,Topics in Public Relations,JOUR,Journalism And Communication,1,UG,LEC,M,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,,,
+PREL-482,Public Rel Campaign,JOUR,Journalism And Communication,3,UG,LEC,M,M,M,R,M,M,M,M,M,M,M,M,M,M,M,M,,,,,R,R,R,M,R,,,
+PREL-485,Public Rel Techn,JOUR,Journalism And Communication,3,UG,LEC,M,R,R,R,M,M,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R,R,,,
+PREL-493,Public Relations InteRnship,JOUR,Journalism And Communication,1,UG,LEC,M,M,M,R,M,R,R,R,R,R,R,R,M,M,M,M,,,,,R,R,R,M,R,,,
+NRNT-125,NutRition,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,I,,,,,,,,,,,,,,
+NRSG-328,Health Assessment,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NRSG-328L,Health Assess Lab,NRSG,Nursing,0,UG,LAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-105,IntRo HealthcaRe InfoRmatics,NRSG,Nursing,1,UG,ONLN,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-115,Health Assessment I,NRSG,Nursing,2,UG,LEC,,,,,I,,,,,,,,,I,,,,,,,,,,,,,,
+NURS-120,Fund of NuRsing,NRSG,Nursing,7,UG,LEC,,,,,I,,,,,,,,I,I,,,,,,,,,,,,,,
+NURS-200,Adult Health I,NRSG,Nursing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-220,Mental Health,NRSG,Nursing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-300,Adult Health I,NRSG,Nursing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-315,Health Assessment I,NRSG,Nursing,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-322,ChildbeaRing Family,NRSG,Nursing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-335,PRof Develop NRsg,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-345,NuRsing PhaRmacology,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-351,RegisteRed NuRse LicensuRe,NRSG,Nursing,0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-355,Pathophysiology,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-385,Appl Statistics Hlth PRof,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-400,Adult Health II,NRSG,Nursing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-420,Child Health,NRSG,Nursing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-425,Capstone Clinical-AS,NRSG,Nursing,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-426,Capstone Clinical-BSN,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-432,Capstone SeminaR,NRSG,Nursing,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-440,PRep foR LicensuRe,NRSG,Nursing,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-446,Pop & Comm Hlth NRsg,NRSG,Nursing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-450,NRsg LdRshp & Mgmt,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-475,RsRch Methods NRsg,NRSG,Nursing,4,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NURS-485,RsRch Methods NuRsing,NRSG,Nursing,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SOCI-125,IntRo to Sociology,SWFS,Social Work,3,UG,LEC,R,R,R,R,R,R,R,R,R,,R,R,,,,,,R,R,R,,,R,R,R,R,R,M
+SOCI-224,Social Psychology,SWFS,Social Work,3,UG,LEC,R,R,M,R,R,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,,R,R,R,R,R,M,M
+SOCI-224,Social Psychology,SWFS,Social Work,3,UG,LEC,R,R,M,R,R,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,,R,R,R,R,R,M,M
+SOCI-224,Social Psychology,SWFS,Social Work,3,UG,LEC,R,R,M,R,R,R,R,R,R,R,R,R,M,M,M,M,M,R,R,R,,R,R,R,R,R,M,M
+SOCI-230,MulticultuRal Relations,SWFS,Social Work,3,UG,LEC,,I,R,,R,R,,I,R,,R,,R,R,R,R,,I,I,I,,,,,R,I,I,R
+SOCI-250,Death and Dying,SWFS,Social Work,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,M,R,M,R,M,R,R,R,R,M,I,R,R,R,M,M,M,M
+SOCI-260,Racism & OppRession,SWFS,Social Work,1,UG,LEC,I,I,I,I,R,R,R,R,,R,R,,R,,,R,R,R,R,R,,,,,R,R,R,R
+SOCI-294,InteRnational Study TouR,SWFS,Social Work,3,UG,LEC,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCI-296,U.S. Study TouR,SWFS,Social Work,1,UG,TOUR,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCI-349,Aging and Society,SWFS,Social Work,3,UG,LEC,R,R,R,R,R,R,R,R,R,,R,R,,,,,,R,R,R,,,R,R,R,R,R,M
+SOCI-450,Death and Dying,SWFS,Social Work,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,M,R,M,R,M,R,R,R,R,M,I,R,R,R,M,M,M,M
+SOCI-460,Racism & OppRession,SWFS,Social Work,1,UG,LEC,I,I,I,I,R,R,R,R,,R,R,,R,,,R,R,R,R,R,,,,,R,R,R,R
+SOCI-465,Topics in Sociology,SWFS,Social Work,1,UG,LEC,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCI-494,InteRnational Study TouR,SWFS,Social Work,3,UG,LEC,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCI-496,U.S. Study TouR,SWFS,Social Work,1,UG,TOUR,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCW-150,CultuRal AnthRopology,SWFS,Social Work,3,UG,LEC,R,R,R,R,R,R,R,R,R,,R,R,,,,,,R,R,R,,,R,R,R,R,R,M
+SOCW-211,IntRo to Social WoRk,SWFS,Social Work,3,UG,LEC,I,,,I,I,I,,,I,,I,,,,,,I,I,,I,,,,,I,I,I,I
+SOCW-212,Social WelfaRe As Instituti,SWFS,Social Work,3,UG,LEC,R,,R,R,R,R,,,R,,R,,R,R,R,R,I,I,I,,,,,,,,,
+SOCW-230,MulticultuRal Relations,SWFS,Social Work,3,UG,LEC,,I,R,,R,R,,I,R,,R,,R,R,R,R,,I,I,I,,,,,R,I,I,R
+SOCW-250,Death and Dying,SWFS,Social Work,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,M,R,M,R,M,R,R,R,R,M,I,R,R,R,M,M,M,M
+SOCW-260,Racism & OppRession,SWFS,Social Work,1,UG,LEC,I,I,I,,R,R,R,R,,R,R,,R,,,,R,R,R,R,,,,,R,R,R,R
+SOCW-294,InteRnational Study TouR,SWFS,Social Work,3,UG,LEC,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCW-296,U.S. Study TouR,SWFS,Social Work,1,UG,TOUR,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCW-309,SW PRac with Indiv,SWFS,Social Work,3,UG,LEC,R,R,R,M,R,R,R,R,R,R,M,M,M,R,R,R,R,R,R,R,I,I,I,I,M,M,M,M
+SOCW-321,SW PRac Families & GRoups,SWFS,Social Work,3,UG,LEC,R,R,R,M,R,R,R,R,R,R,M,M,M,R,R,R,R,R,R,R,I,I,I,I,M,M,M,M
+SOCW-322,Human Behav & Soc Env I,SWFS,Social Work,4,UG,LEC,R,R,R,R,R,R,R,R,M,,R,R,,,,,,R,R,R,,,R,R,R,R,M,M
+SOCW-323,Human Behav & Soc Env I,SWFS,Social Work,4,UG,LEC,R,R,R,R,R,R,R,R,M,,R,R,,,,,,R,R,R,,,R,R,R,R,M,M
+SOCW-338,Missions and Health,SWFS,Social Work,2,UG,LEC,R,,R,I,R,R,R,R,R,R,R,I,R,,R,R,R,R,R,I,,I,R,R,R,I,I,I
+SOCW-349,Aging and Society,SWFS,Social Work,3,UG,LEC,R,R,R,R,R,R,R,R,R,,R,R,,,,,,R,R,R,,,R,R,R,R,R,M
+SOCW-391,JunioR Field PRac,SWFS,Social Work,1,UG,LEC,R,,R,R,R,R,R,I,I,I,R,I,R,,R,R,I,,,I,,,,,R,R,R,R
+SOCW-405,Sex Abuse AwaRe & PRev,SWFS,Social Work,1,UG,LEC,R,R,R,R,R,R,R,R,R,R,M,R,M,R,M,R,R,R,R,M,I,R,R,R,M,M,M,M
+SOCW-413,NetwoRk & CaReeR Dev,SWFS,Social Work,1,UG,LEC,R,,M,,M,M,M,M,,,,,R,,,R,,,,M,,,,,R,,,R
+SOCW-421,SenioR PoRtfolio SeminaR,SWFS,Social Work,1,UG,LEC,,,,,,,,,M,M,,,,,,,,,,,,M,,,,,M,
+SOCW-428,Social WoRk PRac I,SWFS,Social Work,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,R,R,R,R,M,M,M,M
+SOCW-429,SW PRacticum I,SWFS,Social Work,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,M,M,M,M,M,M,M,M
+SOCW-434,Soc WelfaRe Issues & Polic,SWFS,Social Work,3,UG,LEC,M,M,M,R,R,R,R,R,M,R,M,R,M,M,M,M,M,R,R,M,R,M,M,M,M,M,M,M
+SOCW-441,IntegRative Sem I,SWFS,Social Work,1,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,R,R,R,R,M,M,M,M
+SOCW-442,IntegRative Sem I,SWFS,Social Work,1,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,M,M,M,M,M,M,M,M
+SOCW-450,Death and Dying,SWFS,Social Work,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,M,R,M,R,M,R,R,R,R,M,I,R,R,R,M,M,M,M
+SOCW-455,SW PRac ORganiz & Comm,SWFS,Social Work,3,UG,LEC,R,R,,R,R,R,,R,M,R,M,R,R,R,R,R,R,R,R,R,,,R,,R,R,R,R
+SOCW-460,Racism & OppRession,SWFS,Social Work,1,UG,LEC,I,I,I,I,R,R,R,R,,R,R,,R,,,,R,R,R,R,,,,,R,R,R,R
+SOCW-494,InteRnational Study TouR,SWFS,Social Work,3,UG,LEC,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCW-496,U.S. Study TouR,SWFS,Social Work,1,UG,TOUR,I,I,R,R,R,R,R,R,R,R,M,R,R,R,R,R,R,R,,M,,,R,R,M,M,M,M
+SOCW-498,ReseaRch Methods I,SWFS,Social Work,3,UG,LEC,R,R,,,,,,,M,R,,I,R,R,R,R,,,I,,I,I,R,R,R,,,
+SOCW-499,ReseaRch Methods I,SWFS,Social Work,3,UG,LEC,R,,,R,,,,,M,R,,I,R,R,R,R,,,R,,R,R,R,R,R,,,
+AART-104,PRin of Animation I,ART,Visual Art And Design,3,UG,LEC,,,I,,I,R,I,,I,,,I,,,,,,I,I,,,,,,I,I,I,I
+AART-106,PRin of Animation I,ART,Visual Art And Design,3,UG,LEC,,,,,,,,,,,,,,I,,,,,,,,,,,,,,
+AART-108,IntRo to 3D,ART,Visual Art And Design,3,UG,LEC,,I,I,I,I,I,I,,I,I,,I,,,,,,R,I,I,,,I,I,,,I,I
+AART-212,StoRyboaRd & PRevis,ART,Visual Art And Design,3,UG,LEC,I,I,R,R,R,R,I,R,R,R,R,I,I,,I,I,I,R,R,I,,,I,I,I,I,R,
+AART-216,ChaRacteR Animation I,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,I,,I,I,I,I,,,,,I,R,R,I,,,R,I,,R,I,
+AART-218,ChaRacteR Animation I,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,,I,I,I,R,,,,,I,R,R,I,,,R,I,I,R,R,
+AART-236,Visual Development,ART,Visual Art And Design,3,UG,LEC,,,I,,I,I,I,,,,,,,,,,,I,I,I,,,,,,,,
+AART-242,ChaRacteR Design,ART,Visual Art And Design,3,UG,LEC,,,I,,R,R,R,I,I,I,,I,,,,,,R,R,R,,,,I,I,R,R,R
+AART-244,Solid Modeling,ART,Visual Art And Design,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AART-246,EnviRonment Design,ART,Visual Art And Design,3,UG,LEC,,,R,,R,R,R,,,,,,,,,,,R,R,R,,I,R,,,,R,
+AART-265,Topics in Animation,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AART-292,InteRnsh Animation,ART,Visual Art And Design,1,UG,INT,,,,,,,,,,,,,,,,,,R,,,,,,,,,,
+AART-322,Motion Design,ART,Visual Art And Design,3,UG,LEC,I,I,R,I,R,R,R,R,R,R,I,R,R,R,R,R,R,R,,,,R,,,R,R,R,R
+AART-326,CollaboRative Studio,ART,Visual Art And Design,4,UG,LEC,,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,R,R,,,,,R,,R,R
+AART-328,CollaboRative Studio,ART,Visual Art And Design,4,UG,LEC,,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,R,R,,,,,R,,R,R
+AART-356,Effects Animation,ART,Visual Art And Design,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,R,R,,,,R,R
+AART-366,Compositing,ART,Visual Art And Design,3,UG,LEC,,,R,,,,,,,,,,,,,,,R,,,,,,,,,,
+AART-427,SenioR Studio,ART,Visual Art And Design,4,UG,LEC,,,M,M,M,M,M,M,,,,,,,,,,M,M,M,,R,,,M,M,M,M
+AART-429,SenioR Studio,ART,Visual Art And Design,4,UG,LEC,,,M,M,M,M,M,M,,,,,,,,,,M,M,M,,R,,,M,M,M,M
+AART-465,Topics in Animation,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AART-492,InteRnsh Animation,ART,Visual Art And Design,1,UG,INT,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ART-101,IntRo to DRawing,ART,Visual Art And Design,3,UG,LEC,,,,,I,I,I,I,I,I,I,I,,,,,,,I,I,,,,,I,I,I,I
+ART-104,DRawing I,ART,Visual Art And Design,3,UG,LEC,,,,,I,I,I,I,I,I,I,I,,,,,,,I,I,,,,,I,I,I,I
+ART-105,DRawing I,ART,Visual Art And Design,3,UG,LEC,I,,,,I,I,I,I,I,I,I,I,,,,,,,I,I,,,,,I,I,I,I
+ART-107,DRawing in Motion,ART,Visual Art And Design,3,UG,LEC,,,I,,I,I,I,,,R,M,,,,,,,I,I,R,,,,,I,R,R,M
+ART-109,2D Fnd-Plane & ColoR,ART,Visual Art And Design,3,UG,LEC,I,,,,I,I,I,I,I,I,I,I,,,,,,,I,I,,,,,I,I,I,I
+ART-110,3D Fnd-FoRm & Time,ART,Visual Art And Design,3,UG,LEC,,,,,I,I,I,I,I,I,I,I,,,,,,,I,I,,,,,I,I,I,I
+ART-132,Painting:Method of MasteRs,ART,Visual Art And Design,3,UG,LEC,,,,,I,I,I,I,I,I,I,I,,,,,,,I,I,,,,,I,I,I,I
+ART-148,CeRamics I,ART,Visual Art And Design,3,UG,LEC,,,,,I,I,I,I,I,I,I,I,,,,,,,I,I,,,,,I,I,I,I
+ART-175,IntRo Studio PRactices,ART,Visual Art And Design,3,UG,LEC,I,,I,,I,I,I,I,I,I,I,I,,,,,,,I,I,,,,,I,I,I,I
+ART-205,FiguRe DRawing,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-228,WateRcoloR I,ART,Visual Art And Design,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ART-230,IntRo ARt ExpeRiences,ART,Visual Art And Design,2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ART-232,Painting:ColoR & Light,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-238,IntRo to ARt TheRapy,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-248,CeRamics I,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-265,Topics in ARt,ART,Visual Art And Design,1,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-275,Studio PRactices,ART,Visual Art And Design,3,UG,LEC,R,,R,I,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-300,PRintmaking,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-305,FiguRe WoRkshop,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-306,DRawing IV,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-328,Advanced WateRcoloR,ART,Visual Art And Design,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ART-329,SculptuRe:Matl & Tech,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-331,IllustRation Methods,ART,Visual Art And Design,3,UG,LEC,,,I,R,R,R,M,R,R,R,R,R,,R,,R,M,,R,M,,,,R,R,R,R,R
+ART-332,Painting:AbstRaction,ART,Visual Art And Design,3,UG,LEC,R,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-348,CeRamics II,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-375,Adv Studio PRactices,ART,Visual Art And Design,3,UG,LEC,R,,R,R,R,R,R,R,R,R,R,R,,,,,,,R,R,,,,,R,R,R,R
+ART-406,DRawing V,ART,Visual Art And Design,3,UG,LEC,R,,R,R,M,M,M,M,M,M,M,M,,,,,,,M,M,,,,,M,M,M,M
+ART-412,PRepaRing to Meet the FiRms,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ART-432,Painting:Thematic SeRies,ART,Visual Art And Design,3,UG,LEC,M,,R,R,M,M,M,M,M,M,M,M,,,,,,,M,M,,,,,M,M,M,M
+ART-440,Thesis PRoject,ART,Visual Art And Design,6,UG,LEC,M,,M,M,M,M,M,M,M,M,M,M,,,,,,,M,M,,,M,M,M,M,M,M
+ART-448,CeRamics IV,ART,Visual Art And Design,3,UG,LEC,,,,,M,M,M,M,M,M,M,M,,,,,,,M,M,,,,,M,M,M,M
+ART-460,PRofessional PRactices,ART,Visual Art And Design,3,UG,LEC,,,,,M,M,M,M,M,M,M,M,,,,,,,M,M,,,M,M,M,M,M,M
+ART-465,Topics in ARt,ART,Visual Art And Design,1,UG,LEC,,,,,M,M,M,M,M,M,M,M,,,,,,,M,M,,,,,M,M,M,M
+ARTE-338,Elem Methods in ARt,ART,Visual Art And Design,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARTE-368,Sec Meth in ARt,ART,Visual Art And Design,3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARTF-111,IntRo to Film PRoduction,ART,Visual Art And Design,3,UG,LEC,,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,I,,I,I,I,I,I,I,I
+ARTF-114,Film Business & Mgmt,ART,Visual Art And Design,3,UG,LEC,,I,R,I,R,R,R,R,R,R,R,R,R,M,R,R,R,I,,R,I,I,I,I,R,I,R,I
+ARTF-215,Lighting,ART,Visual Art And Design,3,UG,LEC,,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,I,I,R,I,I,I,,,I
+ARTF-215L,Lighting Lab,ART,Visual Art And Design,0,UG,LAB,,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,I,,R,I,I,I,,,I
+ARTF-220,HistoRy of Cinema,ART,Visual Art And Design,3,UG,LEC,I,I,R,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,R,I,I,,,I
+ARTF-226,ScReenwRiting I,ART,Visual Art And Design,3,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,,I,I,R,I,R,R
+ARTF-235,CinematogRaphy,ART,Visual Art And Design,3,UG,LEC,,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,I,I,R,R,R,R,R,R,R,R,R
+ARTF-265,Topics in Film PRoduction,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARTF-320,Post PRoduction,ART,Visual Art And Design,3,UG,LEC,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,M,,R,R,R,R,R,R,R,R,R
+ARTF-328,ScReenwRiting I,ART,Visual Art And Design,3,UG,LEC,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,,,R,R,R,R,R,R
+ARTF-328L,ScReenwRiting I Lab,ART,Visual Art And Design,0,UG,LAB,M,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,,,R,R,R,R,R,R
+ARTF-353,DiRecting the DocumentaRy,ART,Visual Art And Design,3,UG,LEC,R,M,M,M,R,R,R,M,M,M,M,M,M,M,M,M,M,R,R,M,R,R,R,M,M,M,M,M
+ARTF-360,Film Studio PRactices,ART,Visual Art And Design,3,UG,LEC,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,R,R,R,R,R,R,R
+ARTF-372,SenioR PRoject I,ART,Visual Art And Design,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+ARTF-391,Film PRoduction PRac,ART,Visual Art And Design,1,UG,LEC,R,R,R,R,M,M,M,R,M,M,M,M,M,M,M,M,M,R,,R,M,M,R,R,R,R,R,R
+ARTF-422,DiRecting the NaRRative,ART,Visual Art And Design,3,UG,LEC,R,M,M,M,R,R,R,M,M,M,M,M,M,M,M,M,M,R,R,M,,M,R,M,M,M,M,M
+ARTF-465,Topics in Film PRoduction,ART,Visual Art And Design,1,UG,LEC,,,R,,,,,,,,,,,,,,,,R,,,,,,,,,
+ARTF-472,SenioR PRoject I,ART,Visual Art And Design,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+ARTF-492,Film PRod InteRnship,ART,Visual Art And Design,3,UG,INT,,R,R,R,M,M,M,R,M,M,M,M,M,M,M,M,M,R,,M,,,,R,R,R,R,M
+ARTG-115,IntRo to GRaphic Design,ART,Visual Art And Design,3,UG,LEC,,,I,I,I,I,I,,I,I,I,,,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+ARTG-121,TypogRaphy I,ART,Visual Art And Design,3,UG,LEC,I,,,,I,I,I,I,I,I,,,I,,,,,I,I,I,,,I,I,I,I,I,I
+ARTG-122,TypogRaphy I,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,,I,I,,,,,,,,R,I,I,,,I,I,I,I,I,I
+ARTG-138,Design Studio I:Hist & PRac,ART,Visual Art And Design,3,UG,LEC,I,I,I,I,R,I,R,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I
+ARTG-210,VectoR GRaphics,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,,R,R,,I,,,,,,R,R,R,,R,R,R,R,R,R,R
+ARTG-212,RasteR GRaphics,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,R,,R,R,,,,,,,,R,R,R,,,R,R,R,R,R,R
+ARTG-238,Design Studio I:PRod PRoc,ART,Visual Art And Design,3,UG,LEC,I,I,I,I,R,R,R,I,R,R,I,I,I,I,I,I,I,R,R,R,I,R,R,R,R,R,R,R
+ARTG-265,Topics in ComputeR GRaphics,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARTG-324,EditoRial Design,ART,Visual Art And Design,3,UG,LEC,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,M,R,R,,M,R,R,R,R,R,R
+ARTG-332,AdveRtising Design,ART,Visual Art And Design,3,UG,LEC,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,M,M,M,,M,M,M,M,M,M,M
+ARTG-335,ThRee-Dimen GRaphic Design,ART,Visual Art And Design,3,UG,LEC,,,,,R,R,M,,R,R,,R,,,,,,M,M,M,,,M,M,M,M,M,M
+ARTG-338,Design Studio II:PRof PRac,ART,Visual Art And Design,3,UG,LEC,R,R,R,R,R,R,M,R,R,R,R,R,R,R,R,R,R,M,M,M,R,,M,M,M,M,M,M
+ARTG-420,BRanding Systems,ART,Visual Art And Design,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+ARTG-432,SenioR Design Studio,ART,Visual Art And Design,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,,M,M,R,R,R,R,M,M,M,,,M,M,M,M,M,M
+ARTG-465,Topics in ComputeR GRaphics,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARTG-491,GRaphic Design PRacticum,ART,Visual Art And Design,1,UG,PRAC,,,,,M,M,M,M,M,M,M,M,M,,,,,M,M,M,,,M,M,M,M,M,M
+ARTG-492,GRaphic Design InteRnship,ART,Visual Art And Design,1,UG,PRAC,,,,,M,M,M,M,M,M,M,M,M,,,,,M,M,M,,,M,M,M,M,M,M
+ARTH-218,ARt AppReciation,ART,Visual Art And Design,3,UG,LEC,I,I,I,R,R,R,R,R,M,R,R,R,,,,,,,R,R,,I,M,R,R,R,M,R
+ARTH-225,Ancient-EaRly ChR ARt Hist,ART,Visual Art And Design,3,UG,LEC,R,I,I,R,R,R,M,R,M,R,R,R,,,,,,,M,M,,R,M,R,R,R,M,R
+ARTH-235,Mediev/Renais/BaRoque ARt His,ART,Visual Art And Design,3,UG,LEC,R,I,I,R,R,R,M,R,M,R,R,R,,,,,,,R,R,,R,M,R,R,R,M,R
+ARTH-240,ARt HistoRy Study TouR,ART,Visual Art And Design,3,UG,LEC,I,I,I,R,M,M,R,R,R,R,R,R,R,R,R,M,M,,M,M,,M,R,R,R,M,M,M
+ARTH-245,ContempoRaRy ARt,ART,Visual Art And Design,3,UG,LEC,R,R,I,M,M,R,M,R,R,R,R,R,,,,R,R,,M,M,,R,M,R,R,R,M,R
+ARTH-255,Museum Studies,ART,Visual Art And Design,3,UG,LEC,R,R,R,R,M,M,M,M,M,M,R,R,,,,R,R,,M,M,,R,M,R,R,R,M,R
+ARTH-265,ARt HistoRy,ART,Visual Art And Design,1,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,,,,,,,R,R,,,R,R,R,R,R,R
+ARTH-318,ARt AppReciation,ART,Visual Art And Design,3,UG,LEC,M,M,R,M,M,M,R,R,R,R,R,R,,,,M,R,,M,M,,M,M,M,R,R,R,R
+ARTH-325,Ancient-EaRly ChR ARt Hist,ART,Visual Art And Design,3,UG,LEC,M,M,R,M,M,M,M,R,M,R,M,R,,,,M,R,,M,R,,M,M,R,R,R,M,R
+ARTH-335,Mediev/Renais/BaRoque ARt His,ART,Visual Art And Design,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,,,,,,,R,R,,,R,R,R,R,R,R
+ARTH-340,ARt HistoRy Study TouR,ART,Visual Art And Design,3,UG,LEC,R,R,R,M,M,M,M,R,M,R,R,R,R,M,M,M,R,,R,M,,M,M,R,M,M,M,R
+ARTH-345,ContempoRaRy ARt,ART,Visual Art And Design,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,,,,,,,M,M,,,M,M,M,M,M,M
+ARTH-346,ARt TheoRy/CRit & ChRis WRldv,ART,Visual Art And Design,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,M,R,,R,M,R,M,M,M,M
+ARTH-455,Museum Studies,ART,Visual Art And Design,3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,,,,,,,M,M,,R,M,M,M,M,M,M
+ARTH-465,ARt HistoRy,ART,Visual Art And Design,1,UG,LEC,R,R,R,M,M,M,M,R,R,R,R,R,R,R,M,M,M,,R,R,,,M,R,R,R,R,R
+ARTH-492,ARt HistoRy InteRnship,ART,Visual Art And Design,3,UG,INT,M,M,M,M,M,M,M,M,M,M,M,M,,,,,,,M,M,,,M,M,M,M,M,M
+ARTI-124,PRogRamming foR ARtists,ART,Visual Art And Design,3,UG,LEC,,,,,,I,I,I,I,I,,I,I,,,,,I,I,I,,,I,I,I,I,I,I
+ARTI-224,IntRo InteRactive Media,ART,Visual Art And Design,3,UG,LEC,,,I,I,I,I,I,I,I,I,I,I,I,,,,,I,I,I,I,,I,I,I,I,I,I
+ARTI-265,Topics in InteRactive Media,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARTI-324,InteRactive Media,ART,Visual Art And Design,3,UG,LEC,,,R,R,R,R,R,R,R,R,I,R,R,R,R,R,R,R,R,R,I,I,R,R,R,R,R,R
+ARTI-329,Multimedia,ART,Visual Art And Design,3,UG,LEC,,,,,,R,R,R,R,R,,R,R,,,,,R,R,R,R,R,R,R,R,R,R,R
+ARTI-338,UX Design,ART,Visual Art And Design,3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,I,R,R,R,R,R,R
+ARTI-424,Adv InteRactive Media,ART,Visual Art And Design,3,UG,LEC,R,R,R,R,R,M,M,M,M,M,M,M,M,,,,,M,M,M,M,,M,M,M,M,M,M
+ARTI-427,InteRact Video & Sound,ART,Visual Art And Design,3,UG,LEC,,,,,,M,M,M,M,M,,M,M,,,,,M,M,M,,,M,M,M,M,M,M
+ARTI-432,3D EnviRonments,ART,Visual Art And Design,3,UG,LEC,,,,,,M,M,M,M,M,,,M,,,,,M,M,M,,,M,M,M,M,M,M
+ARTI-437,New Media Applications,ART,Visual Art And Design,3,UG,LEC,,,,,,M,M,M,M,M,,M,M,,,,,M,M,M,M,M,M,M,M,M,M,M
+ARTI-440,Digital PoRtfolio,ART,Visual Art And Design,3,UG,LEC,,,,,,,,,,,,M,,,,,,,,,,,,,,,,
+ARTI-465,Topics in InteRactive Media,ART,Visual Art And Design,1,UG,LEC,,,,,,R,R,R,R,R,,,R,,,,,,,,,,,,,,,
+ARTI-480,Self PRomotion,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,M,,,,,,M,M,M,,,M,M,M,M,M,M
+ARTI-491,InteRactive Media PRac,ART,Visual Art And Design,1,UG,PRAC,,,,,,M,M,M,M,M,M,M,M,,,,,,,,,,,,,,,
+ARTI-492,Web/New Media InteRnship,ART,Visual Art And Design,1,UG,LEC,,,,,,M,M,M,M,M,M,M,M,,,,,,,,,,,,,,,
+ARTI-492,Web/New Media InteRsh,ART,Visual Art And Design,1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ADAC-141,Fly Fishing,HPER,"PE, Health And Wellness",1,UG,LEC,,R,,,R,M,M,M,M,M,I,M,M,R,R,R,M,R,R,R,,,R,,M,R,R,R
+ADAC-142,Canoeing,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,R,R,R,,I,,I,,,I,,I,I,,,,,,,,,I,,I,
+ADAC-142,Canoeing,HPER,"PE, Health And Wellness",1,UG,LEC,I,I,I,R,I,I,I,R,R,R,I,R,R,I,I,I,R,,I,R,,,I,I,I,R,R,I
+ADAC-145,Basic Rock Climbing,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,R,R,,I,,,I,,I,,I,I,I,I,I,I,,,,,I,,I,
+ADAC-146,WhitewateR Rafting Guide,HPER,"PE, Health And Wellness",1,UG,LEC,,I,I,,I,,,R,R,R,R,I,I,I,I,I,I,,,R,,,R,R,I,R,I,
+ADAC-148,HoRsemanship,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,,I,I,I,I,I,I,I,I,I,,I,I,I,I,I,I,,,,,R,I,I,I
+ADAC-151,Scuba Diving,HPER,"PE, Health And Wellness",1,UG,LEC,,R,,,R,M,M,M,M,M,I,M,M,R,R,R,M,R,R,R,,M,R,,M,R,R,R
+ADAC-152,Caving,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,I,I,,I,I,R,R,R,R,I,R,R,I,,I,R,,,R,I,R,R,R,I
+ADAC-155,Basic Kayaking,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,I,I,,,,R,R,I,I,R,I,R,I,R,,,R,,,R,I,I,I,I,I
+ADAC-156,Land Navigation,HPER,"PE, Health And Wellness",1,UG,LEC,,,,R,R,R,,R,,R,,,R,,I,I,I,,I,,,,,,R,,R,
+ADAC-160,Snow Skiing/BoaRding,HPER,"PE, Health And Wellness",1,UG,LEC,,R,,,R,M,M,M,M,M,I,M,M,R,R,R,M,R,R,R,,R,R,,M,R,R,R
+ADAC-161,White WateR Kayaking,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,I,I,I,,I,R,R,I,I,R,I,R,I,R,,I,R,,,R,I,I,I,I,I
+ADAC-162,WildeRness Backpacking,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ADAC-200,Gym Climbing,HPER,"PE, Health And Wellness",1,UG,LEC,,I,I,,R,R,,I,,,I,,I,,I,I,I,,I,I,I,,,,,,,
+ADAC-212,Backpacking,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,R,R,R,,I,,I,I,,I,,I,I,,,,,,,,,I,,I,I
+ADAC-214,Mountain Biking,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,,,R,,,,R,I,R,R,,R,R,,,R,,,,,R,R,,,R
+ADAC-215,CHA HoRsemanship CeRt,HPER,"PE, Health And Wellness",1,UG,LEC,I,R,R,R,R,R,R,R,R,R,I,R,R,R,M,M,R,R,R,R,,,R,R,R,R,R,R
+ADAC-248,InteRmediate HoRsemanship,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,,R,R,R,R,R,R,R,R,R,I,R,R,R,R,R,R,,,,,M,R,R,R
+ADAC-251,Advanced Scuba,HPER,"PE, Health And Wellness",1,UG,LEC,,M,,,M,M,M,M,M,M,R,M,M,M,M,M,M,M,M,M,,M,M,,M,R,M,M
+ADAC-262,IntRo to Camping,HPER,"PE, Health And Wellness",1,UG,LEC,R,I,I,R,R,R,,I,,I,,,I,,I,I,I,,,,,,,,I,,I,I
+ADAC-265,Topics in AdventuRe Activity,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ADAC-430,BackcountRy Skiing,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,R,R,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,I,R,R
+ADAC-435,Alpine MountaineeRing,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,R,R,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,I,R,R
+ADTH-350,Adv Activ CuRR Appl,HPER,"PE, Health And Wellness",2,UG,LEC,,I,R,R,R,R,R,R,R,R,I,R,I,,I,I,R,R,R,R,,,R,R,R,I,I,I
+HLED-129,IntRo to Wellness,HPER,"PE, Health And Wellness",2,UG,LEC,R,M,R,R,R,R,M,M,R,R,M,R,R,R,R,R,I,R,I,R,I,I,R,R,M,R,R,R
+HLED-173,Health FoR Life,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,R,R,I,M,M,R,I,R,R,I,,,,I,I,,,,,I,R,M,R,R,M,R
+HLED-210,Medical TeRminology,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,M,M,M,,R,I,I,I,I,,,I,,,,,,I,,I,I,,I,
+HLED-229,Wellness Applications,HPER,"PE, Health And Wellness",2,UG,LEC,M,M,R,M,R,R,R,R,M,M,M,R,M,R,M,M,M,R,R,M,I,I,R,R,M,I,M,M
+HLED-250,CoRpoRate Wellness EnviR,HPER,"PE, Health And Wellness",2,UG,LEC,M,R,M,R,R,M,M,R,M,M,M,R,M,R,M,M,M,M,R,M,I,I,R,M,M,R,M,R
+HLED-265,Topics in Heald Education,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HLED-345,Wellness Coaching,HPER,"PE, Health And Wellness",3,UG,LEC,I,M,M,R,M,M,M,M,M,M,M,R,M,M,M,M,M,M,M,M,R,R,R,M,M,M,M,M
+HLED-356,DRugs and Society,HPER,"PE, Health And Wellness",2,UG,LEC,R,I,,I,R,M,M,,R,R,R,I,,R,I,R,R,R,R,R,R,,R,,,,I,R
+HLED-373,PRev/CaRe Athletic InjuRies,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,M,M,M,M,M,R,M,M,M,M,R,R,R,M,M,I,R,R,,R,R,I,M,M,I,R
+HLED-465,Topics in Health Education,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HLED-470,CuRRent Issues in Health,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,M,M,M,M,M,R,M,M,M,M,M,M,M,M,M,R,M,M,I,M,M,M,M,M,M,M
+HLED-473,Health Educ Meth,HPER,"PE, Health And Wellness",2,UG,LEC,R,,R,R,M,M,M,,R,M,R,,,R,I,R,M,M,M,M,,,R,,R,M,R,R
+HLED-476,"Wellness Meth, MateRial & Mgmt",HPER,"PE, Health And Wellness",3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HLED-491,Wellness Capstone,HPER,"PE, Health And Wellness",2,UG,PRAC,M,M,M,M,M,M,M,M,M,M,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+HLED-491,Wellness Capstone,HPER,"PE, Health And Wellness",2,UG,PRAC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,R,M,M,M,M,M,M
+HLNT-135,NutRition,HPER,"PE, Health And Wellness",3,UG,LEC,I,I,,I,I,I,I,I,R,R,I,R,I,I,I,I,I,I,I,I,,I,I,I,I,I,I,I
+HLNT-265,Topics in NutRition,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HLNT-348,Food PRepaRation,HPER,"PE, Health And Wellness",3,UG,LEC,R,I,R,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,I,,I,R,R,,R,R
+HLNT-365,Topics,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OUTL-136,IntRo Exp LdRsh/OutdR TheR,HPER,"PE, Health And Wellness",3,UG,LEC,I,,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,,,I,I,I,I,I,I
+OUTL-218,Fund Exp LdRsh/OutdR TheR,HPER,"PE, Health And Wellness",3,UG,LEC,R,R,I,R,R,R,R,R,R,R,R,R,R,I,R,R,R,I,I,I,,,I,,R,I,R,R
+OUTL-221,Chal CRs Facil/TheRap Rec,HPER,"PE, Health And Wellness",3,UG,LEC,I,I,R,I,I,R,I,R,R,M,M,M,R,I,I,R,I,I,R,M,M,,M,R,I,R,I,
+OUTL-227,PRimitive Skills,HPER,"PE, Health And Wellness",2,UG,LEC,,R,R,R,R,R,R,,R,R,,R,R,R,R,R,R,R,R,R,,,I,,,,,
+OUTL-229,WildeRness SuRvival,HPER,"PE, Health And Wellness",2,UG,LEC,R,,,,R,R,,R,R,R,,R,R,,R,R,R,R,R,R,,,,,R,,R,R
+OUTL-234,EmeRg Med RespondeR I,HPER,"PE, Health And Wellness",3,UG,LEC,I,R,,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,I,R,R,R,R,R,R,R
+OUTL-235,EmeRg Med RespondeR I,HPER,"PE, Health And Wellness",3,UG,LEC,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+OUTL-265,OutdooR LeadeRship Topics,HPER,"PE, Health And Wellness",0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OUTL-301,OutdR Min & TheRap Rec,HPER,"PE, Health And Wellness",3,UG,LEC,R,R,R,R,R,R,R,R,,R,R,,R,,R,R,R,R,R,R,,,,,R,R,R,R
+OUTL-318,WildeRness FiRst RespondeR,HPER,"PE, Health And Wellness",3,UG,LEC,R,,,R,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,R,,,,,R,,R,R
+OUTL-320,InteRm/Adv Rock Climbing,HPER,"PE, Health And Wellness",2,UG,LEC,M,M,M,M,M,M,,M,R,R,R,R,M,M,R,R,M,R,R,R,R,R,R,R,M,R,M,M
+OUTL-325,Confined Space Rescue,HPER,"PE, Health And Wellness",2,UG,LEC,,,,,I,R,I,R,M,M,R,M,R,R,R,I,R,,R,R,,,M,R,R,,M,R
+OUTL-330,WildeRness EMT,HPER,"PE, Health And Wellness",3,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OUTL-331,Equine Behav & TRain Mgt,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,,I,R,R,R,R,R,I,R,R,R,M,M,R,R,R,R,,,R,R,R,R,R,R
+OUTL-335,Challenge CouRse Mgmt,HPER,"PE, Health And Wellness",3,UG,LEC,R,R,R,I,I,R,I,M,R,M,M,R,R,I,I,I,R,,R,M,R,I,R,M,R,M,R,M
+OUTL-345,EnviRonmental Educ,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,R,R,R,R,R,M,M,R,R,,R,,R,I,R,R,I,M,I,I,I,M,R,R,I,I
+OUTL-346,Swift WateR/Adv Rescue,HPER,"PE, Health And Wellness",2,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OUTL-348,AMGA Sing Pitch InstR CRs,HPER,"PE, Health And Wellness",2,UG,LEC,,,,M,M,M,M,M,R,R,R,R,M,R,R,R,R,,,,,,,,M,R,R,R
+OUTL-349,AMGA Single Pitch InstR Asses,HPER,"PE, Health And Wellness",1,UG,LEC,,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,,,,M,R,M,M
+OUTL-353,VeRtical Caving,HPER,"PE, Health And Wellness",2,UG,LEC,,I,,,R,R,R,M,M,M,R,R,R,M,M,R,R,R,R,R,,,R,M,R,R,R,R
+OUTL-354,Rope Technician I,HPER,"PE, Health And Wellness",2,UG,LEC,I,I,I,R,I,R,M,R,R,M,I,M,R,R,M,R,R,I,R,M,I,R,M,R,R,R,M,I
+OUTL-356,OutdR LdRsh:Fld Exp,HPER,"PE, Health And Wellness",3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,M,M,M,M,M,M
+OUTL-391,LeadeRship SeminaR,HPER,"PE, Health And Wellness",1,UG,LEC,M,M,M,M,M,M,M,R,R,R,,,,,,,,,,,R,,R,R,R,,R,R
+OUTL-425,WildeRness InteRpRetation,HPER,"PE, Health And Wellness",3,UG,LEC,M,M,,M,R,M,M,M,M,M,R,M,M,R,M,R,M,M,M,M,,R,M,M,R,M,M,M
+OUTL-430,Adv TRip LdRsh & TheR Rec,HPER,"PE, Health And Wellness",3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,,,,,M,M,M,M
+OUTL-465,OutdooR LeadeRship Topics,HPER,"PE, Health And Wellness",0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OUTL-492,OutdooR LdRshp InteRn,HPER,"PE, Health And Wellness",10,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,M,M,M,M,M,M
+PEAC-121,Walking/Jogging,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,,R,R,R,R,R,R,I,R,R,I,I,I,I,I,I,R,,R,R,I,R,I,I,I
+PEAC-121,Walking/Jogging,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,M,M,M,,I,R,,I,,I,,I,,,,,,I,,I,R,,I,
+PEAC-123,Volleyball,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,,R,R,R,R,I,R,R,I,R,R,R,R,R,R,I,R,R,,,,,R,I,I,I
+PEAC-125,Fitness Collegiate Life,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,I,I,I,,I,I,,,I,,I,I,,,,I,I,I,I,,,I,I,I
+PEAC-125,Fitness Collegiate Life,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,M,M,M,,,R,,,,,,,,,,,,,,,,I,,I
+PEAC-125L,Fitness Coll Life Lab,HPER,"PE, Health And Wellness",0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PEAC-125L,Fitness Coll Life Lab,HPER,"PE, Health And Wellness",0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PEAC-130,Pickleball,HPER,"PE, Health And Wellness",1,UG,LEC,M,I,I,I,M,M,M,I,I,I,I,M,M,M,M,M,R,R,M,M,I,I,I,I,R,R,R,R
+PEAC-131,Badminton,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,,R,R,R,R,I,R,R,I,R,R,R,R,R,R,I,R,R,,,,,R,I,I,I
+PEAC-133,Racquetball,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,,I,I,I,I,I,R,I,R,I,I,I,R,I,I,I,I,,I,I,I,I,I,I,I
+PEAC-134,Basic Tennis,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,R,R,R,,,R,,R,R,R,R,R,,,R,R,,,,,,,,
+PEAC-134,Basic Tennis,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,I,R,,,I,I,,,,,I,I,,,,,,,,,,,I,
+PEAC-136,Basic Golf,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,R,R,R,,,R,,R,R,R,R,R,,,R,R,,,,,,,,
+PEAC-137,Cycling,HPER,"PE, Health And Wellness",1,UG,LEC,M,R,I,I,M,M,M,I,I,I,I,R,M,M,M,M,I,I,R,R,I,I,I,I,R,R,R,R
+PEAC-140,Weight TRaining,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,M,M,M,,I,R,,I,I,I,R,I,,,,,,I,,I,R,,I,
+PEAC-140,Weight TRaining,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,,R,R,R,R,I,R,R,I,R,R,R,R,R,R,I,R,R,I,,I,,R,I,I,I
+PEAC-143,Basic Tumbling,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,,R,R,R,R,I,R,R,I,R,R,R,R,R,R,I,R,R,,,,,R,I,I,I
+PEAC-153,Basic Swimming,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,,I,I,I,I,I,R,I,R,I,I,I,R,I,I,I,I,,I,I,I,I,I,I,I
+PEAC-215,GRoup In-DooR Cycling,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,R,R,R,,,R,R,,,,,,,,,,,,,,I,,,I
+PEAC-223,FitX,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,R,R,R,R,,R,R,R,R,R,R,R,,,R,,I,I,R,,R,R,R,R
+PEAC-225,Fitness FoR Life,HPER,"PE, Health And Wellness",1,UG,LEC,M,M,M,M,M,M,M,M,M,M,R,R,M,R,M,M,R,I,R,R,I,I,I,I,M,M,M,M
+PEAC-230,Women's Fitness,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,R,R,R,,,R,R,,,,,,,,,,,,,,R,,,I
+PEAC-231,AeRobics,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,I,,,I,I,I,I,I,I,I,I,I,,,I,,,I,I,,R,I,I,I
+PEAC-232,AeRobic Fitness,HPER,"PE, Health And Wellness",1,UG,LEC,I,I,,I,I,I,I,I,I,I,I,R,I,I,I,I,I,R,R,R,I,I,I,I,I,I,I,I
+PEAC-235,PeRsonal Conditioning,HPER,"PE, Health And Wellness",1,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,M,M,R,M,M,I,I,I,I,M,M,M,R
+PEAC-241,TRiathlon,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,,R,R,R,,,,R,,,,,,R,R,R,R,I,,I,R,R,I,R,R
+PEAC-243,Gymnastics Team (Gym-MasteRs),HPER,"PE, Health And Wellness",1,UG,LEC,,R,M,R,R,R,M,R,R,R,R,R,R,R,R,R,R,I,R,R,,,,,R,I,I,I
+PEAC-247,Active BRain,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,R,R,R,R,,R,R,R,,,,,,,,,,,,,,,M,R,R
+PEAC-254,LifeguaRding,HPER,"PE, Health And Wellness",1,UG,LEC,,R,I,,R,R,M,R,R,M,I,M,R,R,M,R,R,R,R,R,,I,R,M,R,R,R,R
+PEAC-257,Pilates,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,I,,,I,I,I,I,I,I,I,I,I,,,I,,,I,I,,R,I,I,I
+PEAC-257,Pilates,HPER,"PE, Health And Wellness",1,UG,LEC,,I,,,I,I,I,I,I,R,I,R,I,I,I,R,I,I,I,I,,I,I,I,I,I,I,I
+PEAC-261,IntRo to RecReation,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,I,,,I,I,I,I,I,I,I,I,I,,,I,,,I,I,,R,I,I,I
+PEAC-265,Topics,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PEAC-325,Phys Activity Elem Schools,HPER,"PE, Health And Wellness",1,UG,LEC,I,,R,R,R,R,R,,,R,,,,,,,,,,,,,,,,,,I
+PEAC-425,Fit foR HiRe,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,R,M,M,M,,R,R,,,,,,,,,,,,,,,R,R,R,R
+PEAC-425L,Fit foR HiRe Lab,HPER,"PE, Health And Wellness",0,UG,ONLN,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PEAC-ALD,Physical Activity - LoweR Div,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PETH-114,PRoAct-Softball,HPER,"PE, Health And Wellness",1,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,R,R,R,R,R,I,I,I,I,,I,R,I,I,I,I,R
+PETH-116,PRoAct - Volleyball,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R
+PETH-117,PRoAct - Basketball,HPER,"PE, Health And Wellness",1,UG,LEC,R,,R,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,,R,,,,,,,R,R
+PETH-119,PRoAct - SocceR,HPER,"PE, Health And Wellness",1,UG,LEC,R,,R,R,R,R,R,R,R,R,,R,R,R,R,R,R,R,,R,,,,,,,R,R
+PETH-210,GRoup Fitness InstRuctoR,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PETH-214,PRoAct - Tennis,HPER,"PE, Health And Wellness",1,UG,LEC,I,I,I,I,I,I,I,I,I,I,I,R,R,R,R,R,I,I,I,I,,I,R,I,I,I,I,I
+PETH-216,PRoAct- Fitness foR Life,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PETH-217,PRoAct-Badminton,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R
+PETH-219,PRoAct - Gymnastics,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,I,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,,,,,R,R,R,R
+PETH-240,Coaching FoR Success,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,,,M,M,M,M,M,M,M,M,M,M,M,M,R,R,R,R,,R,R,R,M,M,M,M
+PETH-255,WateR Safety InstRuctoR,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,M,R,M,R,M,R,M,M,R,M,M,M,M,M,M,R,R,M,I,R,M,M,R,R,R,R
+PETH-265,Topics in TheoRy,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PETH-270,CeRtified Pool OpeRatoR,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,,,M,M,R,M,M,M,I,M,M,R,R,M,M,M,M,M,M,R,R,M,R,I,R,R
+PETH-314,Biomechanics,HPER,"PE, Health And Wellness",3,UG,LEC,,,R,M,M,M,M,,M,I,I,R,R,R,R,I,M,M,M,M,I,M,R,R,R,R,R,I
+PETH-315,Physiology of ExeRcise,HPER,"PE, Health And Wellness",4,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+PETH-315L,ExeRcise Phys Lab,HPER,"PE, Health And Wellness",0,UG,LAB,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+PETH-326,PeRsonal TRaineR,HPER,"PE, Health And Wellness",3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+PETH-354,LifeguaRd InstRuctoR,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,M,R,M,R,M,R,M,M,R,M,M,M,M,M,M,R,R,M,I,R,M,M,R,R,R,R
+PETH-363,Test & MeasuRe Hlth/PE,HPER,"PE, Health And Wellness",3,UG,LEC,R,M,I,M,R,M,R,M,M,M,I,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,R,R
+PETH-364,Adm Hlth/PE/Rec TheRapy,HPER,"PE, Health And Wellness",3,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,I,M,M,R,M,M,M,M
+PETH-375,MotoR LeaRning & Dev,HPER,"PE, Health And Wellness",3,UG,LEC,R,,,R,M,M,M,,R,R,,,,R,I,R,,,,,R,R,R,,,,,R
+PETH-437,Adapt PE & TheRapeutic Rec,HPER,"PE, Health And Wellness",2,UG,LEC,R,,,R,R,M,M,,R,R,R,,,R,I,R,M,M,M,M,,,R,,R,M,R,R
+PETH-441,Sec Phys Educ Meth,HPER,"PE, Health And Wellness",2,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,R,M,M
+PETH-463,Elem School PE Methods,HPER,"PE, Health And Wellness",2,UG,LEC,M,,M,R,M,M,M,,R,R,R,,,,,,M,M,M,M,,,,,R,R,R,R
+PETH-465,Topics in TheoRy,HPER,"PE, Health And Wellness",0,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PETH-474,Psyc & Sociology of SpoRts,HPER,"PE, Health And Wellness",2,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,R,R,M,R,R,M,M,I,M,M,M,M,M,M,M
+PETH-495,DiRected Study,HPER,"PE, Health And Wellness",1,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+PETH-497,IntRo Appl ExeRcise Sci RsRch,HPER,"PE, Health And Wellness",1,UG,LEC,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+RECR-210,GRoup Fitness InstRuctoR,HPER,"PE, Health And Wellness",2,UG,LEC,I,I,I,I,I,I,I,R,R,R,I,R,R,I,I,I,I,I,R,R,,R,R,R,R,I,I,I
+RECR-210,GRoup Fitness InstRuctoR,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,M,R,M,R,M,R,M,M,R,M,M,M,M,M,M,R,R,M,I,R,M,M,R,R,R,R
+RECR-210,GRoup Fitness InstRuctoR,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+RECR-254,LifeguaRding,HPER,"PE, Health And Wellness",1,UG,LEC,,R,I,,R,R,M,R,R,M,I,M,R,R,M,R,R,R,R,R,,I,R,M,R,R,R,R
+RECR-268,Offi SpoRt Analysis I,HPER,"PE, Health And Wellness",2,UG,LEC,,R,R,,R,M,,R,M,M,I,,R,I,R,R,R,,I,I,,R,R,,I,,R,R
+RECR-269,Officiating SpoRts Analy I,HPER,"PE, Health And Wellness",2,UG,LEC,,R,R,,R,M,,R,M,M,I,,R,I,R,R,R,,I,I,,R,R,,I,,R,R
+RECR-326,PeRsonal TRaineR,HPER,"PE, Health And Wellness",3,UG,LEC,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+RECR-491,RecReation PRacticum,HPER,"PE, Health And Wellness",1,UG,LEC,M,M,M,M,M,M,M,M,M,M,R,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+VGCA-101,PC:Veg Dish/EntRee I,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,I,I,I,,,I,,I,I,,I,I,,,I,I,,,,,I,,,
+VGCA-103,IntRo CulinaRy Fundamentals,HPER,"PE, Health And Wellness",2,UG,LEC,I,I,,I,I,I,I,,I,I,,I,,I,I,I,I,,I,I,,,,,I,,I,
+VGCA-109,PC:Soup/Sandwich/Salad,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,R,I,I,,,I,,I,I,,I,I,I,,I,I,,,,,I,,,
+VGCA-113,PC:DesseRts,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,R,R,R,,,R,,R,,,I,I,I,,R,R,,,,,I,,,
+VGCA-117,PC:Veg/GRains/Side I,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,R,R,R,,,I,,R,I,,I,I,I,,R,R,,,,,R,,,
+VGCA-121,PC:FResh & Raw I,HPER,"PE, Health And Wellness",1,UG,LEC,,,,I,R,R,R,,,R,I,,,,R,R,,I,,,,,,,,,,
+VGCA-125,Int'l Ethnic Cuis:AmeRicas,HPER,"PE, Health And Wellness",1,UG,LEC,R,,I,R,R,R,R,I,,R,I,R,R,R,R,R,,,M,M,,,,,R,,,
+VGCA-135,PC:Baking,HPER,"PE, Health And Wellness",1,UG,LEC,,,,R,R,R,R,,,R,,R,I,,R,R,I,,M,M,,,,,R,,,
+VGCA-136,PC:Advanced Baking,HPER,"PE, Health And Wellness",1,UG,LEC,,,,M,M,M,M,,,M,,R,R,,R,M,R,,M,M,,,,,R,,,
+VGCA-140,PC:BeveRages I,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,I,I,I,I,,,,,,R,,I,R,,,R,R,,,,,I,,,
+VGCA-142,PC:Fish & PoultRy,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VGCA-144,PC:Beef,HPER,"PE, Health And Wellness",1,UG,LEC,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+VGCA-146,PC:AppetizeRs I,HPER,"PE, Health And Wellness",1,UG,LEC,R,,R,R,R,R,R,,,R,,,R,,I,R,,,R,R,,,,,I,,,
+VGCA-151,Food Safety & Sanitation,HPER,"PE, Health And Wellness",2,UG,LEC,,,,,I,,R,,R,M,R,M,I,,R,I,I,,R,R,,,R,I,R,,I,
+VGCA-173,IntRo Menu Dev & OpeR PRoc,HPER,"PE, Health And Wellness",3,UG,LEC,R,R,R,R,M,,R,I,R,R,R,M,R,R,R,R,R,R,M,M,,,,,R,,R,I
+VGCA-175,CulinaRy SupeRv/Mgmt,HPER,"PE, Health And Wellness",2,UG,LEC,R,R,R,R,M,R,R,I,M,M,R,M,,,,R,R,R,M,M,,,,,R,I,M,R
+VGCA-181,IntRo MRkg CulinaRy PRof,HPER,"PE, Health And Wellness",1,UG,LEC,M,M,R,M,M,R,M,,R,R,,M,I,,R,M,,R,R,R,,,,,M,,,
+VGCA-190,Hlth Benefts VegetaRian Diets,HPER,"PE, Health And Wellness",1,UG,LEC,R,R,R,R,I,I,R,I,R,,,R,,,I,I,R,,R,R,,,R,R,I,,,
+VGCA-202,PC:Main Dish/EntRee I,HPER,"PE, Health And Wellness",1,UG,LEC,M,,,M,M,M,M,,,R,,R,R,,R,R,R,,M,M,,,,,R,,,
+VGCA-218,PC:Vegetable/GRain/Sides I,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,M,M,M,M,,,R,,R,R,,R,R,,,R,R,,,,,R,,,
+VGCA-226,PC:Int'l Ethnic Cuisines:EuRo,HPER,"PE, Health And Wellness",1,UG,LEC,R,,R,M,M,M,M,M,,R,R,M,M,R,R,M,R,R,M,M,,,R,,M,,,R
+VGCA-235,PC:PastRy & Pies,HPER,"PE, Health And Wellness",1,UG,LEC,,,,M,M,M,M,,,M,,R,R,,M,M,R,,M,M,,,,,R,,,
+VGCA-237,PC:Cake PRod & PResentation,HPER,"PE, Health And Wellness",1,UG,LEC,,,,R,M,M,M,,,R,,R,R,,R,M,,,R,R,,,,,R,,,
+VGCA-265,Topics,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,R,M,M,M,,M,R,,,,,,R,,,R,R,,,R,R,,,,
+VGCA-269,Cooking foR Special Diets,HPER,"PE, Health And Wellness",1,UG,LEC,M,R,R,R,M,M,M,R,M,M,M,R,R,R,R,M,M,M,M,M,,,R,,M,,M,R
+VGCA-293,Veg Cul ARts IntRn,HPER,"PE, Health And Wellness",1,UG,INT,,,,R,M,M,M,R,R,M,,R,M,,M,M,M,,M,M,,,,,M,,M,R
+VGCA-295,DiRected Study,HPER,"PE, Health And Wellness",1,UG,LEC,R,,,R,M,M,M,,R,R,,R,,,,,,,R,R,,,R,,,,,
