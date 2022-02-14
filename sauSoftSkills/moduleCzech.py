@@ -3,8 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random
 
-df = pd.read_csv('sauFinal.csv')
-df["test"] = random.random()  #1 if ("I") else 2 if ("R") else 3 if ("M") else 0
+df = pd.read_csv("sauFinal.csv")
+# df["test"] = [1 for x in df["L: "]]
 print(df.head(10))
 print(df.columns)
 
