@@ -11,6 +11,7 @@ for col in sau.columns:
 
 irm = pd.DataFrame()
 irm["level"] = ["None", "Introduced", "Reinforced", "Mastered"]
+irm["count"] = 0
 
 for col in sau.columns:
 	countI = 0
@@ -18,7 +19,18 @@ for col in sau.columns:
 	countM = 0
 	countN = 0
 	for val in sau[col]:
-		if val
+		if val == "I":
+			countI += 1
+		elif val == "R":
+			countR += 1
+		elif val == "M":
+			countM += 1
+		else:
+			countN += 1
+	
+	
+		
+		
 			
 
 leadCols = ["CPS: Clarification", "CPS: Ideation", "CPS: Solution Development", "CPS: Implementation",]
