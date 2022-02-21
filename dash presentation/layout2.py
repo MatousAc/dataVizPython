@@ -1,19 +1,14 @@
-# Run this app with `python app.py` and
-# visit http://127.0.0.1:8050/ in your web browser.
-
 from dash import Dash, dcc, html
 import plotly.express as px
 import pandas as pd
 
 app = Dash(__name__)
-
+# we can also style things using css as a python dict
 colors = {
-    'background': '#ca5cba',
-    'text': '#23020F'
+    'background': '#026661',
+    'text': '#ffffff'
 }
 
-# assume you have a "long-form" data frame
-# see https://plotly.com/python/px-arguments/ for more options
 df = pd.DataFrame({
     "Fruit": ["Apples", "Oranges", "Bananas", "Apples", "Oranges", "Bananas", "Apples", "Oranges", "Bananas"],
     "Amount": [4, 1, 2, 2, 4, 5, 3, 6, 2],
@@ -22,15 +17,19 @@ df = pd.DataFrame({
 
 fig = px.bar(df, x="City", y="Amount", color="Fruit", barmode="group")
 
+# we can alter the figure before it is displayed 
+# so that it better fits within our page
 fig.update_layout(
-    plot_bgcolor=colors['background'],
-    paper_bgcolor=colors['background'],
-    font_color=colors['text']
+    # plot_bgcolor=colors['background'],
+    # paper_bgcolor=colors['background'], # UNCOMMENT THIS
+    # font_color=colors['text']
 )
 
+# you can style the whole enclosing div
 app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
     html.H1(
         children='Hello Dash',
+        # specify styles for individual elements
         style={
             'textAlign': 'center',
             'color': colors['text']
