@@ -20,8 +20,8 @@ fig = px.bar(df, x="City", y="Amount", color="Fruit", barmode="group")
 # we can alter the figure before it is displayed 
 # so that it better fits within our page
 fig.update_layout(
-    # plot_bgcolor=colors['background'],
-    # paper_bgcolor=colors['background'], # UNCOMMENT THIS
+    plot_bgcolor=colors['background'],
+    paper_bgcolor=colors['background'], # UNCOMMENT THIS
     # font_color=colors['text']
 )
 
